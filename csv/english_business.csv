@@ -1,0 +1,871 @@
+index,word
+0,API (Application Programming Interface)
+1,Abide
+2,Accelerate
+3,Accelerator
+4,Accentuate
+5,Accomplish
+6,Accountability
+7,Accrue
+8,Accumulate
+9,Achieve
+10,Acquire
+11,Acquisition
+12,Acquisition cost
+13,Actionable
+14,Activate
+15,Adapt
+16,Address
+17,Adhere
+18,Adjudicate
+19,Adjust
+20,Administer
+21,Adoption curve
+22,Adoption rate
+23,Advance
+24,Advantage
+25,Advise
+26,Affiliate
+27,Affirm
+28,Agile
+29,Agile methodology
+30,Algorithm
+31,Align
+32,Alignment
+33,Alleviate
+34,Allocate
+35,Ally
+36,Alter
+37,Amortization
+38,Amortize
+39,Amplify
+40,Analyze
+41,Anti-money laundering (AML)
+42,Appeal
+43,Appendix
+44,Appraise
+45,Appreciate
+46,Appreciation
+47,Appropriate
+48,Approve
+49,Arbitrate
+50,Arbitration
+51,Architecture
+52,Arrange
+53,Articulate
+54,Artificial intelligence (AI)
+55,Assert
+56,Assess
+57,Assessment
+58,Asset
+59,Assign
+60,Associate
+61,Attain
+62,Attest
+63,Attract
+64,Attrition
+65,Audience engagement
+66,Audit
+67,Augment
+68,Austerity
+69,Authenticate
+70,Authority
+71,Authorize
+72,Automation
+73,Backlog
+74,Backup
+75,Balance
+76,Balance sheet
+77,Bandwidth
+78,Bargain
+79,Baseline
+80,Basis point
+81,Bear market
+82,Begin
+83,Benchmark
+84,Benchmarking
+85,Benefit
+86,Benefits
+87,Best case
+88,Best practice
+89,Best practices
+90,Big data
+91,Board of directors
+92,Body language
+93,Bolster
+94,Bond
+95,Bonus structure
+96,Boom
+97,Boost
+98,Bottleneck
+99,Breach
+100,Breach of contract
+101,Break-even
+102,Bridge
+103,Brief
+104,Budget
+105,Build
+106,Bull market
+107,Burndown chart
+108,Business architecture
+109,Business case
+110,Business cycle
+111,Business intelligence
+112,Business model
+113,Business partnering
+114,Bust
+115,C-suite
+116,CRM (Customer Relationship Management)
+117,Cadence
+118,Calculate
+119,Call to action
+120,Capability
+121,Capability building
+122,Capability maturity
+123,Capacity planning
+124,Capital expenditure (CapEx)
+125,Capitalize
+126,Capture
+127,Carry out
+128,Case study
+129,Cash flow
+130,Catalyze
+131,Center of excellence
+132,Central bank
+133,Certify
+134,Change
+135,Change management
+136,Change readiness
+137,Check
+138,Choose
+139,Churn rate
+140,Claim
+141,Clarify
+142,Click-through rate
+143,Client relationship
+144,Client-facing
+145,Closing statement
+146,Cloud computing
+147,Coaching
+148,Code of conduct
+149,Collaborate
+150,Collateral
+151,Combine
+152,Commodity
+153,Communicate
+154,Compare
+155,Compensation
+156,Competency
+157,Competitive advantage
+158,Competitive differentiation
+159,Competitive landscape
+160,Complete
+161,Compliance
+162,Comply
+163,Compound
+164,Comprehensive
+165,Conceive
+166,Conclude
+167,Conduct
+168,Confidence
+169,Confidentiality
+170,Configure
+171,Confirm
+172,Conform
+173,Connect
+174,Conserve
+175,Consider
+176,Consolidate
+177,Consolidation
+178,Constrain
+179,Constraint
+180,Construct
+181,Consult
+182,Consumer price index (CPI)
+183,Contain
+184,Contemplate
+185,Contingency plan
+186,Continue
+187,Continuous improvement
+188,Contract
+189,Contrast
+190,Control
+191,Conversion rate
+192,Convert
+193,Convey
+194,Conviction
+195,Convince
+196,Cooperate
+197,Coordinate
+198,Cope with
+199,Copyright
+200,Core competency
+201,Core values
+202,Corporate culture
+203,Corporate governance
+204,Corporate social responsibility (CSR)
+205,Correct
+206,Correspond
+207,Cost
+208,Cost structure
+209,Counsel
+210,Cover
+211,Coverage
+212,Create
+213,Credibility
+214,Credit rating
+215,Critical path
+216,Cross-functional
+217,Cultivate
+218,Currency
+219,Current state
+220,Curtail
+221,Customer-centric
+222,Cybersecurity
+223,Dashboard
+224,Data analytics
+225,Data visualization
+226,Database
+227,Deal
+228,Deal with
+229,Debate
+230,Debt-to-equity ratio
+231,Decide
+232,Decision rights
+233,Deck (presentation)
+234,Decrease
+235,Deductible
+236,Deep dive
+237,Default
+238,Defend
+239,Deficit
+240,Define
+241,Deflate
+242,Deflation
+243,Delegate
+244,Deliberate
+245,Delight
+246,Deliver
+247,Deliverable
+248,Deliverable acceptance
+249,Demographic
+250,Demonstrate
+251,Dependency
+252,Deploy
+253,Depreciate
+254,Depreciation
+255,Depression
+256,Derivative
+257,Design
+258,Detail
+259,Detect
+260,Determine
+261,Devaluation
+262,Develop
+263,Developed market
+264,Devise
+265,Diagnose
+266,Diagnostic
+267,Digital footprint
+268,Digital transformation
+269,Diminish
+270,Direct
+271,Disaster recovery
+272,Disburse
+273,Disclosure
+274,Discover
+275,Discovery phase
+276,Discuss
+277,Display
+278,Disrupt
+279,Disruption
+280,Disruptive
+281,Distribute
+282,Diversification
+283,Diversify
+284,Divestiture
+285,Dividend
+286,Downsizing
+287,Downtime
+288,Draw
+289,Drill down
+290,Due diligence
+291,ERP (Enterprise Resource Planning)
+292,Earn
+293,Economic indicator
+294,Ecosystem
+295,Efficiency
+296,Elaborate
+297,Elect
+298,Elevate
+299,Elevator pitch
+300,Elucidate
+301,Emerging market
+302,Emphasis
+303,Emphasize
+304,Empower
+305,Enable
+306,Encourage
+307,Encryption
+308,End-user
+309,Endanger
+310,Endorse
+311,Engage
+312,Engagement
+313,Enhance
+314,Enlarge
+315,Entice
+316,Equity
+317,Escalate
+318,Escalation
+319,Establish
+320,Estimate
+321,Ethics
+322,Evaluate
+323,Evolve
+324,Examine
+325,Exchange
+326,Exchange rate
+327,Execute
+328,Executive
+329,Executive summary
+330,Exhibit
+331,Expand
+332,Expansion
+333,Expedite
+334,Expense
+335,Experiment
+336,Expertise
+337,Explain
+338,Explore
+339,Export
+340,Expose
+341,Express
+342,Extend
+343,External audit
+344,Eye contact
+345,Facilitate
+346,Fast-track
+347,Feature
+348,Federal Reserve
+349,Feedback loop
+350,Fiduciary duty
+351,Finalize
+352,Finance
+353,Firewall
+354,Fiscal
+355,Fiscal policy
+356,Fix
+357,Fixed fee
+358,Flat organization
+359,Focus
+360,Follow
+361,Follow-up
+362,Forecast
+363,Forex (Foreign Exchange)
+364,Formulate
+365,Foster
+366,Frame
+367,Framework
+368,Fraud prevention
+369,Free trade
+370,Frontier market
+371,Fulfill
+372,Fund
+373,Furnish
+374,Future state
+375,GDP (Gross Domestic Product)
+376,GDPR (General Data Protection Regulation)
+377,Gain
+378,Gap analysis
+379,Gauge
+380,Generate
+381,Globalization
+382,Govern
+383,Governance
+384,Governance framework
+385,Governance model
+386,Grade
+387,Granular
+388,Grow
+389,Growth trajectory
+390,Guard
+391,Guide
+392,Handle
+393,Handout
+394,Handover
+395,Hazard
+396,Hedge
+397,Hierarchy
+398,High-level
+399,High-potential employee
+400,Highlight
+401,Hold
+402,Holistic
+403,Honor
+404,Horizontal integration
+405,Human capital
+406,Hybrid solution
+407,IPO (Initial Public Offering)
+408,IRR (Internal Rate of Return)
+409,IaaS (Infrastructure as a Service)
+410,Identify
+411,Illustrate
+412,Implement
+413,Implementation
+414,Implementation strategy
+415,Import
+416,Impress
+417,Improve
+418,Incentive
+419,Incite
+420,Income statement
+421,Increase
+422,Indemnity
+423,Indicate
+424,Induce
+425,Industry standard
+426,Industry vertical
+427,Inflate
+428,Inflation
+429,Influence
+430,Infographic
+431,Inform
+432,Infrastructure
+433,Initiate
+434,Initiative
+435,Innovate
+436,Innovation
+437,Innovative
+438,Insourcing
+439,Inspect
+440,Inspire
+441,Install
+442,Institute
+443,Instruct
+444,Insurance
+445,Insure
+446,Integrate
+447,Integration
+448,Intellectual property
+449,Intensify
+450,Interact
+451,Interest rate
+452,Interface
+453,Internal control
+454,Invent
+455,Invest
+456,Investigate
+457,Issue log
+458,Iterative process
+459,Jeopardize
+460,Join
+461,Judge
+462,Justify
+463,KPI (Key Performance Indicator)
+464,Keep
+465,Key talent
+466,Know Your Customer (KYC)
+467,Knowledge transfer
+468,Latency
+469,Launch
+470,Lead
+471,Leadership
+472,Leading indicator
+473,Leading practice
+474,Lean methodology
+475,Leave-behind
+476,Legacy system
+477,Legal counsel
+478,Legislation
+479,Lessen
+480,Lessons learned
+481,Leverage
+482,Liability
+483,Liaise
+484,Licensing
+485,Lifetime value
+486,Limit
+487,Link
+488,Liquidity
+489,Litigation
+490,Loss
+491,Low-hanging fruit
+492,Lure
+493,MVP (Minimum Viable Product)
+494,Machine learning
+495,Macroeconomic
+496,Magnify
+497,Maintain
+498,Manage
+499,Management
+500,Maneuver
+501,Margin
+502,Market dynamics
+503,Market penetration
+504,Market segmentation
+505,Market share
+506,Master services agreement
+507,Matrix organization
+508,Mature
+509,Maturity assessment
+510,Maturity model
+511,Maximize
+512,Measure
+513,Mediate
+514,Mentorship
+515,Merge
+516,Merger
+517,Microeconomic
+518,Migrate
+519,Migration
+520,Milestone
+521,Minimize
+522,Mission statement
+523,Mitigate
+524,Mobile-first
+525,Modify
+526,Monetary policy
+527,Monetize
+528,Monitor
+529,Motivate
+530,Multiply
+531,NPV (Net Present Value)
+532,Narrative arc
+533,National debt
+534,Navigate
+535,Negotiate
+536,Network
+537,Next steps
+538,Non-disclosure agreement (NDA)
+539,Normalize
+540,Notify
+541,Nurture
+542,Objection handling
+543,Observe
+544,Obtain
+545,Offboarding
+546,On-premise
+547,Onboarding
+548,Opening hook
+549,Operating model
+550,Operational
+551,Operational expenditure (OpEx)
+552,Operationalize
+553,Opportunity cost
+554,Opt
+555,Optimize
+556,Orchestrate
+557,Order
+558,Organizational development
+559,Organizational structure
+560,Organize
+561,Originate
+562,Outlay
+563,Outline
+564,Outreach
+565,Outsourcing
+566,Overhaul
+567,Overhead
+568,Oversee
+569,Overturn
+570,PESTEL analysis
+571,PaaS (Platform as a Service)
+572,Pacing
+573,Pain point
+574,Partner
+575,Patent
+576,Peer comparison
+577,Penetrate
+578,Perform
+579,Performance gap
+580,Performance review
+581,Persuade
+582,Persuasion
+583,Pick
+584,Pilot
+585,Pioneer
+586,Pitch
+587,Pivot
+588,Plan
+589,Please
+590,Policy
+591,Porter's Five Forces
+592,Portfolio
+593,Position
+594,Positioning
+595,Post-mortem
+596,Predict
+597,Predictive analytics
+598,Premium
+599,Prepare
+600,Present
+601,Preserve
+602,Price
+603,Prime rate
+604,Prioritize
+605,Proceed
+606,Process
+607,Process mapping
+608,Process optimization
+609,Produce
+610,Producer price index (PPI)
+611,Productivity
+612,Profit
+613,Profitability
+614,Program
+615,Progress
+616,Project
+617,Project charter
+618,Project phase
+619,Project scope
+620,Projection
+621,Promote
+622,Prompt
+623,Proof point
+624,Propose
+625,Protect
+626,Protectionism
+627,Provide
+628,Psychographic
+629,Q&A session
+630,Quality assurance
+631,Quantify
+632,Quantitative easing
+633,Quarter
+634,Quick win
+635,Quota
+636,ROA (Return on Assets)
+637,ROE (Return on Equity)
+638,ROI (Return on Investment)
+639,ROI story
+640,Raise
+641,Rank
+642,Rate
+643,Rationalize
+644,Readjust
+645,Realign
+646,Realize
+647,Reason
+648,Recession
+649,Recommend
+650,Reconcile
+651,Recondition
+652,Recovery
+653,Rectify
+654,Redirect
+655,Reduce
+656,Redundancy
+657,Refine
+658,Reflect
+659,Refocus
+660,Refurbish
+661,Regulate
+662,Regulation
+663,Regulatory
+664,Reinforce
+665,Reinsurance
+666,Relate
+667,Remediation
+668,Remedy
+669,Renovate
+670,Reorganize
+671,Reorient
+672,Report
+673,Reporting line
+674,Reposition
+675,Research
+676,Resistance management
+677,Reskilling
+678,Resolution
+679,Resolve
+680,Resource allocation
+681,Respect
+682,Responsibility matrix
+683,Responsive design
+684,Restore
+685,Restrict
+686,Restructure
+687,Restructuring
+688,Retain
+689,Retainer
+690,Retention
+691,Retention strategy
+692,Retrospective
+693,Revaluation
+694,Revamp
+695,Reveal
+696,Revenue
+697,Revenue stream
+698,Review
+699,Revolutionize
+700,Right-sizing
+701,Risk
+702,Risk appetite
+703,Risk assessment
+704,Risk mitigation
+705,Risk tolerance
+706,Roadmap
+707,Robust
+708,Roll-out
+709,SEO (Search Engine Optimization)
+710,SWOT analysis
+711,SaaS (Software as a Service)
+712,Safeguard
+713,Sanction
+714,Satisfaction metric
+715,Satisfy
+716,Scalability
+717,Scalable
+718,Scenario planning
+719,Schedule
+720,Scope
+721,Scope creep
+722,Scoping
+723,Score
+724,Secure
+725,Segment
+726,Select
+727,Sequence
+728,Server
+729,Service level agreement (SLA)
+730,Set-up
+731,Settle
+732,Settlement
+733,Share
+734,Shared services
+735,Shareholder
+736,Shield
+737,Shift
+738,Show
+739,Shrink
+740,Signpost
+741,Signposting
+742,Silo
+743,Simplify
+744,Six Sigma
+745,Skill set
+746,Slide deck
+747,Solution
+748,Solve
+749,Solvency
+750,Specialize
+751,Specify
+752,Spend
+753,Sprint
+754,Stagflation
+755,Stakeholder
+756,Stand-up meeting
+757,Standardize
+758,Start
+759,Statement of work
+760,Statute
+761,Steer
+762,Stimulate
+763,Stimulus
+764,Stock
+765,Stock option
+766,Storytelling
+767,Strategic
+768,Strategize
+769,Streamline
+770,Strengthen
+771,Stress
+772,Structure
+773,Study
+774,Subsidy
+775,Success factor
+776,Succession planning
+777,Suggest
+778,Summarize
+779,Supervise
+780,Supply
+781,Support
+782,Surplus
+783,Sustain
+784,Sustainability
+785,Sustainability plan
+786,Sustainable
+787,Sway
+788,Sync
+789,Synergy
+790,Systematize
+791,TCO (Total Cost of Ownership)
+792,Tackle
+793,Tactical
+794,Takeaway
+795,Talent acquisition
+796,Talent pipeline
+797,Target
+798,Target market
+799,Tariff
+800,Task management
+801,Team dynamics
+802,Terms and conditions
+803,Test
+804,Testimonial
+805,Think
+806,Thought leadership
+807,Threaten
+808,Threshold
+809,Time and materials
+810,Timeline
+811,Timing
+812,Touchpoint
+813,Track
+814,Trade
+815,Trade balance
+816,Trademark
+817,Training and development
+818,Transact
+819,Transform
+820,Transformation
+821,Transformation roadmap
+822,Transition
+823,Transition plan
+824,Transparency
+825,Trial
+826,Trigger
+827,Turnover
+828,UI/UX (User Interface/User Experience)
+829,Uncover
+830,Underscore
+831,Underwrite
+832,Underwriting
+833,Unify
+834,Unique selling proposition (USP)
+835,Unique value
+836,Unite
+837,Update
+838,Upgrade
+839,Uphold
+840,Upskilling
+841,Uptime
+842,Validate
+843,Valuation
+844,Value
+845,Value chain
+846,Value creation
+847,Value proposition
+848,Value-add
+849,Verify
+850,Vertical integration
+851,Vesting period
+852,Visibility
+853,Vision statement
+854,Visualization
+855,Voice projection
+856,Volatility
+857,Vulnerability
+858,Warrant
+859,Waste elimination
+860,Watch
+861,Waterfall methodology
+862,Whistleblower
+863,White paper
+864,Win
+865,Workflow
+866,Workforce planning
+867,Worst case
+868,Wrap-up
+869,Yield
