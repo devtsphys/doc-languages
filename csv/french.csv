@@ -1,0 +1,801 @@
+index,french,english
+0,je,I
+1,je voudrais,I would like
+2,une moitié,a half
+3,peu de,"a little, few"
+4,longtemps,a long time
+5,beaucoup de,a lot of
+6,beaucoup,"a lot, much"
+7,un quart,a quarter
+8,un ensemble,a set
+9,un tiers,a third
+10,un/une,"a, an, one"
+11,une centaine,about a hundred
+12,une dizaine,about ten
+13,une trentaine,about thirty
+14,une vingtaine,about twenty
+15,au-dessus,above
+16,tout à fait,absolutely
+17,selon,according to
+18,après,after
+19,contre,against
+20,air,air
+21,air,air
+22,avion,airplane
+23,aéroport,airport
+24,tout le,all the
+25,tous les,all the (plural)
+26,tout le temps,all the time
+27,tout,"all, everything"
+28,allergie,allergy
+29,presque,almost
+30,seul,"alone, only"
+31,déjà,already
+32,aussi,"also, too"
+33,bien que,although
+34,toujours,always
+35,ancien,"ancient, former"
+36,et,and
+37,animal,animal
+38,cheville,ankle
+39,n'importe quel,any
+40,n'importe comment,anyhow
+41,n'importe quand,anytime
+42,n'importe où,anywhere
+43,appartement,apartment
+44,pomme,apple
+45,à peu près,approximately
+46,bras,arm
+47,fauteuil,armchair
+48,autour,around
+49,arrivée,arrival
+50,art,art
+51,quant à,as for
+52,autant,as much
+53,dès que,as soon as
+54,grenier,attic
+55,tante,aunt
+56,automne,"autumn, fall"
+57,avenue,avenue
+58,dos,back
+59,mauvais,bad
+60,mal,badly
+61,sac,bag
+62,balcon,balcony
+63,banane,banana
+64,salle de bain,bathroom
+65,baignoire,bathtub
+66,plage,beach
+67,beau/belle,beautiful
+68,parce que,because
+69,à cause de,because of
+70,car,"because, for"
+71,lit,bed
+72,chambre,bedroom
+73,chambre,bedroom
+74,bœuf,beef
+75,bière,beer
+76,avant,before
+77,avant de,before
+78,au-dessous,below
+79,ceinture,belt
+80,meilleur ami,best friend
+81,mieux,better
+82,entre,between
+83,vélo,bicycle
+84,grand,"big, tall, great"
+85,milliard,billion
+86,oiseau,bird
+87,noir,black
+88,sang,blood
+89,bleu,blue
+90,bateau,boat
+91,corps,body
+92,os,bone
+93,livre,book
+94,botte,boot
+95,frontière,border
+96,patron,boss
+97,patron,boss
+98,boulevard,boulevard
+99,bracelet,bracelet
+100,cerveau,brain
+101,pain,bread
+102,petit déjeuner,breakfast
+103,pont,bridge
+104,frère,brother
+105,beau-frère,brother-in-law
+106,copain,"buddy, boyfriend"
+107,immeuble,building
+108,bus,bus
+109,mais,but
+110,beurre,butter
+111,bouton,button
+112,à force de,by dint of
+113,par,"by, through"
+114,gâteau,cake
+115,bonbon,candy
+116,voiture,car
+117,tapis,"carpet, rug"
+118,carotte,carrot
+119,plafond,ceiling
+120,cave,cellar
+121,centre,center
+122,certain,certain (some)
+123,certain,"certain, sure"
+124,certainement,certainly
+125,chaise,chair
+126,fromage,cheese
+127,poulet,chicken
+128,enfant,child
+129,enfant,child
+130,chocolat,chocolate
+131,ville,"city, town"
+132,ville,"city, town"
+133,classe,class
+134,client,client
+135,climat,climate
+136,horloge,clock
+137,vêtement,"clothing, garment"
+138,nuage,cloud
+139,manteau,coat
+140,café,coffee
+141,froid,cold
+142,rhume,cold
+143,froid,cold
+144,collègue,colleague
+145,collègue,colleague
+146,couleur,color
+147,entreprise,company
+148,ordinateur,computer
+149,concernant,concerning
+150,félicitations,congratulations
+151,coton,cotton
+152,pays,country
+153,pays,country
+154,couple,couple
+155,cours,"course, lesson"
+156,cousine,cousin (female)
+157,cousin,cousin (male)
+158,actuellement,currently
+159,rideau,curtain
+160,douane,customs
+161,papa,dad
+162,fille,daughter
+163,belle-fille,daughter-in-law
+164,jour,day
+165,cher,"dear, expensive"
+166,retard,delay
+167,départ,departure
+168,désert,desert
+169,malgré,despite
+170,dessert,dessert
+171,différent,different
+172,difficile,difficult
+173,salle à manger,dining room
+174,dîner,dinner
+175,diplôme,"diploma, degree"
+176,direction,direction
+177,directement,directly
+178,lave-vaisselle,dishwasher
+179,divorcé,divorced
+180,médecin,doctor
+181,porte,door
+182,porte,door
+183,double,double
+184,robe,dress
+185,boisson,drink
+186,conducteur,driver
+187,durant,during
+188,pendant,during
+189,chaque,each
+190,oreille,ear
+191,tôt,early
+192,boucle d'oreille,earring
+193,terre,earth
+194,terre,"earth, soil"
+195,est,east
+196,facile,easy
+197,éducation,education
+198,œuf,egg
+199,huit,eight
+200,coude,elbow
+201,ascenseur,elevator
+202,ailleurs,elsewhere
+203,employé,employee
+204,employé,employee
+205,bon appétit,enjoy your meal
+206,énormément,enormously
+207,assez,enough
+208,entier,"entire, whole"
+209,entrée,entrance
+210,environnement,environment
+211,également,"equally, also"
+212,partout,everywhere
+213,exactement,exactly
+214,examen,exam
+215,sauf,except
+216,hormis,except
+217,excuse-moi,excuse me (informal)
+218,œil/yeux,eye/eyes
+219,yeux,eyes
+220,tissu,fabric
+221,visage,face
+222,visage,face
+223,famille,family
+224,famille,family
+225,loin,far
+226,mode,fashion
+227,père,father
+228,père,father
+229,beau-père,father-in-law
+230,fièvre,fever
+231,fiancé,fiancé
+232,fiancée,fiancée
+233,champ,field
+234,cinquante,fifty
+235,enfin,finally
+236,doigt,finger
+237,feu,fire
+238,premier/première,first
+239,premier,first
+240,poisson,fish
+241,poisson,fish
+242,cinq,five
+243,sol,floor
+244,fleur,flower
+245,grippe,flu
+246,nourriture,food
+247,pied,foot
+248,pied,foot
+249,pour,for
+250,de peur que,for fear that
+251,faute de,for lack of
+252,front,forehead
+253,étranger,"foreign, abroad"
+254,forêt,forest
+255,autrefois,formerly
+256,heureusement,fortunately
+257,quarante,forty
+258,quatre,four
+259,libre,free
+260,ami,friend
+261,ami,friend
+262,amie,friend (female)
+263,de temps en temps,from time to time
+264,dès,"from, as soon as"
+265,fruit,fruit
+266,plein,full
+267,jardin,garden
+268,jardin,garden
+269,général,general
+270,géographie,geography
+271,copine,girlfriend
+272,lunettes,glasses
+273,gant,glove
+274,parrain,godfather
+275,marraine,godmother
+276,bon,good
+277,bonsoir,good evening
+278,bonne chance,good luck
+279,bonne nuit,good night
+280,au revoir,goodbye
+281,petite-fille,granddaughter
+282,grand-père,grandfather
+283,grand-mère,grandmother
+284,petit-fils,grandson
+285,herbe,grass
+286,vert,green
+287,cheveux,hair
+288,demi,half
+289,main,hand
+290,main,hand
+291,heureux,happy
+292,content,happy
+293,chapeau,hat
+294,bonne journée,have a good day
+295,il,"he, it"
+296,tête,head
+297,tête,head
+298,mal de tête,headache
+299,guérison,healing
+300,santé,health
+301,cœur,heart
+302,chaleur,heat
+303,bonjour,"hello, good morning"
+304,ici,here
+305,lycée,high school
+306,haut,"high, tall"
+307,colline,hill
+308,son/sa/ses,"his, her, its"
+309,histoire,history
+310,devoir,homework
+311,hôpital,hospital
+312,chaud,hot
+313,hôtel,hotel
+314,heure,hour
+315,maison,house
+316,maison,house
+317,comment allez-vous,how are you (formal)
+318,ça va,how are you (informal)
+319,comment ça va,how's it going
+320,cent,hundred
+321,mari,husband
+322,glace,ice cream
+323,idée,idea
+324,si,"if, whether"
+325,maladie,illness
+326,important,important
+327,dans,in
+328,en tout cas,in any case
+329,au cas où,in case
+330,en fait,in fact
+331,devant,in front of
+332,afin de,in order to
+333,en,"in, by"
+334,ingrédient,ingredient
+335,blessure,injury
+336,insecte,insect
+337,au lieu de,instead of
+338,carrefour,intersection
+339,entretien,interview
+340,île,island
+341,n'est-ce pas,isn't it
+342,ça ne fait rien,it doesn't matter
+343,veste,jacket
+344,jean,jeans
+345,bijou,jewel
+346,emploi,job
+347,jus,juice
+348,clé,key
+349,cuisine,kitchen
+350,cuisine,"kitchen, cooking"
+351,genou,knee
+352,savoir,knowledge
+353,connaissance,knowledge
+354,lac,lake
+355,lampe,lamp
+356,langue,language
+357,dernier/dernière,last
+358,dernier,last
+359,tard,late
+360,cuir,leather
+361,congé,"leave, time off"
+362,jambe,leg
+363,moins,less
+364,de moins en moins,less and less
+365,bibliothèque,library
+366,vie,life
+367,comme,"like, as"
+368,lèvre,lip
+369,littérature,literature
+370,peu à peu,little by little
+371,petit à petit,little by little
+372,peu,"little, few"
+373,salon,living room
+374,long,long
+375,amour,love
+376,bas,low
+377,déjeuner,lunch
+378,poumon,lung
+379,homme,man
+380,carte,map
+381,marié,married
+382,mathématiques,mathematics
+383,peut-être,maybe
+384,repas,meal
+385,viande,meat
+386,médicament,medication
+387,réunion,meeting
+388,micro-ondes,microwave
+389,collège,middle school
+390,lait,milk
+391,million,million
+392,miroir,mirror
+393,maman,mom
+394,moment,moment
+395,argent,money
+396,argent,money
+397,lune,moon
+398,davantage,more
+399,de plus en plus,more and more
+400,plus,"more, plus"
+401,la plupart,most
+402,mère,mother
+403,belle-mère,mother-in-law
+404,moto,motorcycle
+405,montagne,mountain
+406,bouche,mouth
+407,muscle,muscle
+408,musique,music
+409,devoir,"must, to have to"
+410,nom,name
+411,nature,nature
+412,près,near
+413,auprès,"near, with"
+414,nécessaire,necessary
+415,cou,neck
+416,collier,necklace
+417,voisin,neighbor
+418,voisine,neighbor (female)
+419,neveu,nephew
+420,jamais,never
+421,nouveau/nouvelle,new
+422,prochain,next
+423,nièce,niece
+424,nuit,night
+425,neuf,nine
+426,aucun,"none, not any"
+427,nord,north
+428,nez,nose
+429,ne...pas,not
+430,pas du tout,not at all
+431,pas encore,not yet
+432,cahier,notebook
+433,maintenant,now
+434,nombreux,numerous
+435,infirmier/infirmière,nurse
+436,océan,ocean
+437,bien sûr,of course
+438,de,"of, from"
+439,bureau,office
+440,bureau,"office, desk"
+441,souvent,often
+442,huile,oil
+443,d'accord,okay
+444,vieux/vieille,old
+445,sur,on
+446,on,"one, we"
+447,aller simple,one-way
+448,se,oneself
+449,oignon,onion
+450,seulement,only
+451,ou,or
+452,orange,orange
+453,autre,other
+454,autrement,otherwise
+455,four,oven
+456,douleur,pain
+457,tableau,painting
+458,pyjama,pajamas
+459,pantalon,pants
+460,parent,parent
+461,parc,park
+462,part,"part, share"
+463,notamment,particularly
+464,passager,passenger
+465,passeport,passport
+466,pâtes,pasta
+467,chemin,path
+468,gens,people
+469,poivre,pepper
+470,personne,person
+471,pharmacie,pharmacy
+472,philosophie,philosophy
+473,lieu,place
+474,planète,planet
+475,plante,plant
+476,s'il vous plaît,please (formal)
+477,poche,pocket
+478,point,"point, dot"
+479,pollution,pollution
+480,pauvre,poor
+481,porc,pork
+482,port,"port, harbor"
+483,possible,possible
+484,pomme de terre,potato
+485,ordonnance,prescription
+486,présent,present
+487,joli,pretty
+488,métier,profession
+489,à condition que,provided that
+490,pourvu que,provided that
+491,élève,pupil
+492,question,question
+493,rapidement,quickly
+494,radio,radio
+495,pluie,rain
+496,imperméable,raincoat
+497,vraiment,really
+498,raison,reason
+499,recette,recipe
+500,rouge,red
+501,réfrigérateur,refrigerator
+502,réservation,reservation
+503,restaurant,restaurant
+504,retraite,retirement
+505,riz,rice
+506,tout de suite,right away
+507,droit,"right, straight"
+508,bague,ring
+509,rivière,river
+510,route,road
+511,toit,roof
+512,pièce,room
+513,aller-retour,round trip
+514,triste,sad
+515,salade,salad
+516,salaire,salary
+517,sel,salt
+518,même,"same, even"
+519,sandwich,sandwich
+520,écharpe,scarf
+521,horaire,schedule
+522,horaire,schedule
+523,école,school
+524,école,school
+525,science,science
+526,mer,sea
+527,saison,season
+528,deuxième,second
+529,à tout à l'heure,see you later
+530,à bientôt,see you soon
+531,à demain,see you tomorrow
+532,sérieux,serious
+533,sept,seven
+534,plusieurs,several
+535,elle,"she, it"
+536,étagère,shelf
+537,chemise,shirt
+538,chaussure,shoe
+539,court,short
+540,épaule,shoulder
+541,douche,shower
+542,côté,side
+543,soie,silk
+544,pareil,"similar, same"
+545,simple,simple
+546,simplement,simply
+547,puisque,"since, as"
+548,depuis,"since, from"
+549,célibataire,single
+550,lavabo,sink
+551,sœur,sister
+552,belle-sœur,sister-in-law
+553,six,six
+554,soixante,sixty
+555,taille,size
+556,peau,skin
+557,jupe,skirt
+558,ciel,sky
+559,petit,"small, little"
+560,neige,snow
+561,tant mieux,so much the better
+562,pour que,so that
+563,de sorte que,so that
+564,social,social
+565,chaussette,sock
+566,canapé,sofa
+567,doucement,"softly, gently"
+568,quelque,some
+569,quelques,"some, a few"
+570,quelqu'un,someone
+571,parfois,sometimes
+572,fils,son
+573,fils,son
+574,gendre,son-in-law
+575,bientôt,soon
+576,pardon,"sorry, excuse me"
+577,soupe,soup
+578,sud,south
+579,époux,spouse
+580,printemps,spring
+581,place,square
+582,escalier,stairs
+583,étoile,star
+584,état,"state, condition"
+585,encore,"still, again"
+586,ventre,stomach
+587,mal au ventre,stomachache
+588,tempête,storm
+589,rue,street
+590,rue,street
+591,fort,strong
+592,étudiant,student
+593,étude,study
+594,style,style
+595,matière,subject
+596,métro,subway
+597,soudain,suddenly
+598,suffisamment,sufficiently
+599,sucre,sugar
+600,costume,suit
+601,valise,suitcase
+602,été,summer
+603,soleil,sun
+604,lunettes de soleil,sunglasses
+605,sûr,sure
+606,opération,surgery
+607,pull,sweater
+608,maillot de bain,swimsuit
+609,t-shirt,t-shirt
+610,table,table
+611,goût,taste
+612,taxi,taxi
+613,thé,tea
+614,professeur,"teacher, professor"
+615,téléphone,telephone
+616,télévision,television
+617,dix,ten
+618,merci,thank you
+619,grâce à,thanks to
+620,c'est à dire,that is to say
+621,ça suffit,that's enough
+622,c'est la vie,that's life
+623,que,"that, which, whom"
+624,le/la/les,the
+625,la totalité,the totality
+626,leur/leurs,their
+627,puis,then
+628,alors,"then, so"
+629,y,there
+630,là,there
+631,il y a,there is/are
+632,donc,"therefore, so"
+633,chose,thing
+634,troisième,third
+635,trente,thirty
+636,celui/celle,"this one, that one"
+637,ce/cette/ces,"this, that, these, those"
+638,mille,thousand
+639,trois,three
+640,à travers,through
+641,pouce,thumb
+642,ainsi,thus
+643,billet,ticket
+644,cravate,tie
+645,collant,tights
+646,fois,time (occurrence)
+647,temps,"time, weather"
+648,permettre,"to allow, to permit"
+649,répondre,to answer
+650,arriver,"to arrive, to happen"
+651,demander,to ask
+652,être,to be
+653,pouvoir,"to be able to, can"
+654,devenir,to become
+655,commencer,to begin
+656,croire,to believe
+657,acheter,to buy
+658,appeler,to call
+659,porter,"to carry, to wear"
+660,venir,to come
+661,revenir,to come back
+662,continuer,to continue
+663,mourir,to die
+664,faire,"to do, to make"
+665,entrer,to enter
+666,tomber,to fall
+667,sentir,"to feel, to smell"
+668,trouver,to find
+669,retrouver,"to find again, to meet"
+670,finir,to finish
+671,suivre,to follow
+672,donner,to give
+673,aller,to go
+674,sortir,"to go out, to exit"
+675,avoir,to have
+676,entendre,to hear
+677,tenir,to hold
+678,savoir,to know (facts)
+679,connaître,to know (someone/something)
+680,apprendre,to learn
+681,partir,to leave
+682,quitter,to leave
+683,laisser,"to leave, to let"
+684,aimer,"to like, to love"
+685,vivre,to live
+686,regarder,to look at
+687,chercher,to look for
+688,perdre,to lose
+689,ouvrir,to open
+690,passer,"to pass, to go through"
+691,jouer,to play
+692,mettre,to put
+693,lire,to read
+694,recevoir,to receive
+695,rappeler,"to remind, to call back"
+696,rendre,"to return, to make"
+697,dire,"to say, to tell"
+698,voir,to see
+699,sembler,to seem
+700,servir,to serve
+701,montrer,to show
+702,parler,"to speak, to talk"
+703,rester,"to stay, to remain"
+704,prendre,to take
+705,enseigner,to teach
+706,au point que,to the point that
+707,penser,to think
+708,essayer,to try on
+709,comprendre,to understand
+710,attendre,to wait
+711,porter,to wear
+712,écrire,to write
+713,à votre santé,to your health
+714,à,"to, at"
+715,aujourd'hui,today
+716,ensemble,together
+717,toilettes,toilet
+718,tomate,tomato
+719,demain,tomorrow
+720,langue,tongue
+721,tant pis,too bad
+722,trop,too much
+723,dent,tooth
+724,touriste,tourist
+725,vers,toward
+726,envers,toward
+727,train,train
+728,gare,train station
+729,formation,training
+730,traitement,treatment
+731,arbre,tree
+732,voyage,"trip, journey"
+733,vrai,true
+734,vingt,twenty
+735,deux,two
+736,parapluie,umbrella
+737,oncle,uncle
+738,sous,under
+739,sous-vêtements,underwear
+740,chômage,unemployment
+741,univers,universe
+742,université,university
+743,à moins que,unless
+744,jusqu'à ce que,until
+745,jusqu'à,"until, up to"
+746,vacances,vacation
+747,vacances,"vacation, holidays"
+748,vallée,valley
+749,légume,vegetable
+750,très,very
+751,village,village
+752,visa,visa
+753,visite,visit
+754,voix,voice
+755,mur,wall
+756,portefeuille,wallet
+757,armoire,wardrobe
+758,machine à laver,washing machine
+759,montre,watch
+760,eau,water
+761,eau,water
+762,eau,water
+763,façon,"way, manner"
+764,nous,"we, us"
+765,temps,weather
+766,bien,"well, good"
+767,qu'est-ce que c'est,what is it
+768,qu'est-ce qu'il y a,what's wrong/what's there
+769,n'importe quoi,"whatever, nonsense"
+770,quand,when
+771,lorsque,when
+772,où,where
+773,tandis que,while
+774,alors que,"while, whereas"
+775,blanc,white
+776,qui,"who, whom"
+777,veuve,widow
+778,veuf,widower
+779,femme,wife
+780,vent,wind
+781,fenêtre,window
+782,vin,wine
+783,hiver,winter
+784,avec,with
+785,sans,without
+786,femme,"woman, wife"
+787,laine,wool
+788,mot,word
+789,travail,work
+790,travail,work
+791,monde,world
+792,monde,"world, people"
+793,année,year
+794,an,year
+795,hier,yesterday
+796,vous,you (formal/plural)
+797,de rien,you're welcome
+798,jeune,young
+799,fermeture éclair,zipper
