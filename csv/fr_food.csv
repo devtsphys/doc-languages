@@ -1,0 +1,501 @@
+french,english
+la nourriture,food
+le repas,meal
+le petit-déjeuner,breakfast
+le déjeuner,lunch
+le dîner,dinner
+le goûter,snack/afternoon tea
+l'entrée (f),starter/appetizer
+le plat principal,main course
+le dessert,dessert
+la boisson,drink
+la recette,recipe
+le menu,menu
+la cuisine,cooking/kitchen
+le goût,taste/flavor
+l'ingrédient (m),ingredient
+la pomme,apple
+la banane,banana
+l'orange (f),orange
+la fraise,strawberry
+le citron,lemon
+le citron vert,lime
+l'ananas (m),pineapple
+le raisin,grape
+la pêche,peach
+la poire,pear
+la pastèque,watermelon
+le melon,melon
+le kiwi,kiwi
+la cerise,cherry
+la framboise,raspberry
+la myrtille,blueberry
+la mûre,blackberry
+la mangue,mango
+la grenade,pomegranate
+l'avocat (m),avocado
+la noix de coco,coconut
+la mandarine,tangerine
+l'abricot (m),apricot
+la prune,plum
+la papaye,papaya
+la figue,fig
+le fruit,fruit
+les fruits rouges,berries
+les agrumes,citrus fruits
+la carotte,carrot
+la pomme de terre,potato
+la tomate,tomato
+l'oignon (m),onion
+l'ail (m),garlic
+la laitue,lettuce
+le concombre,cucumber
+le poivron,bell pepper
+le maïs,corn
+la citrouille,pumpkin
+la courgette,zucchini
+l'aubergine (f),eggplant
+les épinards (m),spinach
+le brocoli,broccoli
+le chou-fleur,cauliflower
+le haricot vert,green bean
+le champignon,mushroom
+le petit pois,pea
+la betterave,beet
+le chou,cabbage
+l'artichaut (m),artichoke
+l'asperge (f),asparagus
+la ciboulette,chives
+le poireau,leek
+le céleri,celery
+le radis,radish
+la blette,chard
+le gingembre,ginger
+le légume,vegetable
+la salade,salad
+les herbes (f),herbs
+les crudités (f),raw vegetables
+la viande,meat
+le poulet,chicken
+le bœuf,beef
+le porc,pork
+l'agneau (m),lamb
+le jambon,ham
+le lard,bacon
+la saucisse,sausage
+le steak,steak
+la côtelette,chop
+la dinde,turkey
+le canard,duck
+la viande hachée,ground meat
+le filet,fillet
+le gigot,leg (of lamb)
+les côtes (f),ribs
+le foie,liver
+le lapin,rabbit
+la poitrine,breast (meat)
+la cuisse,thigh
+l'aile (f),wing
+l'andouillette (f),tripe sausage
+le veau,veal
+le rôti,roast
+le gibier,game meat
+la volaille,poultry
+la charcuterie,cured meats
+le poisson,fish
+les fruits de mer (m),seafood
+le thon,tuna
+le saumon,salmon
+le merlu,hake
+la morue,cod
+la dorade,sea bream
+le bar,sea bass
+la sole,sole
+la truite,trout
+la sardine,sardine
+l'anchois (m),anchovy
+la crevette,shrimp
+le homard,lobster
+le crabe,crab
+le poulpe,octopus
+le calamar,squid
+la coquille Saint-Jacques,scallop
+la moule,mussel
+la palourde,clam
+l'huître (f),oyster
+le hareng,herring
+le maquereau,mackerel
+le cabillaud,cod
+la lotte,monkfish
+l'espadon (m),swordfish
+les crustacés (m),shellfish
+le lait,milk
+le fromage,cheese
+le yaourt/yogourt,yogurt
+le beurre,butter
+la crème,cream
+l'œuf (m),egg
+le camembert,Camembert cheese
+le brie,Brie cheese
+le roquefort,Roquefort cheese
+le chèvre,goat cheese
+le blanc d'œuf,egg white
+le jaune d'œuf,egg yolk
+le fromage blanc,quark/cottage cheese
+la crème fraîche,crème fraîche
+la crème fouettée,whipped cream
+le gruyère,Gruyère cheese
+le comté,Comté cheese
+l'emmental (m),Emmental cheese
+le reblochon,Reblochon cheese
+le munster,Munster cheese
+le riz,rice
+les pâtes (f),pasta
+le pain,bread
+la farine,flour
+le blé,wheat
+le maïs,corn
+l'avoine (f),oats
+le haricot,bean
+la lentille,lentil
+le pois chiche,chickpea
+le petit pois,pea
+le soja,soy
+le quinoa,quinoa
+le seigle,rye
+l'orge (f),barley
+le millet,millet
+l'épeautre (m),spelt
+le boulgour,bulgur
+le couscous,couscous
+le sarrasin,buckwheat
+le semoule,semolina
+le céréale,cereal
+la légumineuse,legume
+le pain,bread
+la baguette,baguette
+le pain complet,whole wheat bread
+le pain de mie,sliced bread
+le toast,toast
+le petit pain,roll
+le croissant,croissant
+le brioche,brioche
+le muffin,muffin
+le gâteau,cake
+la tarte,pie/tart
+le biscuit,cookie/biscuit
+le pain au chocolat,chocolate pastry
+la crêpe,crepe
+le macaron,macaron
+l'éclair (m),eclair
+le mille-feuille,mille-feuille/Napoleon
+la madeleine,madeleine
+le financier,financier (almond cake)
+la pâte,dough/paste
+la pâte feuilletée,puff pastry
+la pâte brisée,shortcrust pastry
+la pâte à choux,choux pastry
+la viennoiserie,pastry
+la pâtisserie,pastry/pastry shop
+la boulangerie,bakery
+la levure,yeast
+le pain grillé,toast
+le pain aux raisins,raisin bread
+le chausson aux pommes,apple turnover
+le sel,salt
+le poivre,pepper
+le sucre,sugar
+l'huile (f),oil
+l'huile d'olive (f),olive oil
+le vinaigre,vinegar
+la sauce,sauce
+la mayonnaise,mayonnaise
+la moutarde,mustard
+le ketchup,ketchup
+la sauce tomate,tomato sauce
+la sauce soja,soy sauce
+le piment,chili
+l'origan (m),oregano
+le persil,parsley
+la coriandre,coriander/cilantro
+le thym,thyme
+le romarin,rosemary
+le basilic,basil
+la cannelle,cinnamon
+le cumin,cumin
+le gingembre,ginger
+la muscade,nutmeg
+le safran,saffron
+la vanille,vanilla
+le miel,honey
+la confiture,jam
+le sirop,syrup
+le saindoux,lard
+la margarine,margarine
+la vinaigrette,vinaigrette
+l'assaisonnement (m),seasoning
+le condiment,condiment
+l'épice (f),spice
+l'herbe (f),herb
+le curry,curry
+le paprika,paprika
+la noix,walnut
+l'amande (f),almond
+la cacahuète/l'arachide (f),peanut
+la pistache,pistachio
+la noisette,hazelnut
+la châtaigne,chestnut
+la graine,seed
+la graine de tournesol,sunflower seed
+la graine de citrouille,pumpkin seed
+la graine de chia,chia seed
+la graine de lin,flaxseed
+la graine de sésame,sesame seed
+le raisin sec,raisin
+la datte,date
+le pignon,pine nut
+la noix de cajou,cashew
+la noix de pécan,pecan
+la noix du Brésil,Brazil nut
+la noix de macadamia,macadamia nut
+les fruits secs,dried fruits
+les fruits à coque,nuts
+l'eau (f),water
+le café,coffee
+le thé,tea
+le jus,juice
+le lait,milk
+le soda,soda
+la bière,beer
+le vin,wine
+le vin rouge,red wine
+le vin blanc,white wine
+le champagne,champagne
+le cocktail,cocktail
+la liqueur,liqueur
+le whisky,whiskey
+le rhum,rum
+la vodka,vodka
+le cognac,cognac
+le pastis,pastis (anise-flavored spirit)
+le cidre,cider
+la limonade,lemonade
+le chocolat chaud,hot chocolate
+l'espresso (m),espresso
+le cappuccino,cappuccino
+le café au lait,coffee with milk
+le café noir,black coffee
+l'infusion (f),herbal tea
+la camomille,chamomile tea
+le thé vert,green tea
+le thé noir,black tea
+l'apéritif (m),aperitif
+le digestif,digestif
+la boisson,drink
+la boisson gazeuse,carbonated drink
+la bouteille,bottle
+le verre,glass
+la carafe,carafe
+le pichet,pitcher
+la tasse,cup
+le kir,kir (white wine with blackcurrant liqueur)
+le kir royal,kir royal (champagne with blackcurrant liqueur)
+cuisiner,to cook
+bouillir,to boil
+frire,to fry
+rôtir,to roast
+cuire au four,to bake
+cuire à la vapeur,to steam
+faire sauter,to sauté
+fouetter,to whisk
+mélanger,to mix
+couper,to cut
+hacher,to chop
+éplucher,to peel
+râper,to grate
+moudre,to grind
+mariner,to marinate
+assaisonner,to season
+aromatiser,to flavor
+fondre,to melt
+chauffer,to heat
+refroidir,to cool
+congeler,to freeze
+décongeler,to defrost/thaw
+servir,to serve
+goûter,to taste
+mijoter,to simmer
+flamber,to flambé
+pocher,to poach
+gratiner,to broil/brown
+blanchir,to blanch
+braiser,to braise
+paner,to bread
+pétrir,to knead
+fermenter,to ferment
+cuit,cooked
+cru,raw
+frit,fried
+rôti,roasted
+cuit au four,baked
+bouilli,boiled
+al dente,al dente
+la poêle,frying pan
+la casserole,saucepan
+la marmite,pot
+le four,oven
+le micro-ondes,microwave
+le mixeur,blender
+le batteur,mixer
+le couteau,knife
+la fourchette,fork
+la cuillère,spoon
+la spatule,spatula
+la passoire,strainer/colander
+la planche à découper,cutting board
+le restaurant,restaurant
+le menu,menu
+la carte,menu (à la carte)
+le serveur/la serveuse,waiter/waitress
+le chef,chef
+le pourboire,tip
+l'addition (f),bill/check
+la réservation,reservation
+l'entrée (f),starter/appetizer
+le plat principal,main course
+la spécialité,specialty
+la table,table
+la chaise,chair
+la nappe,tablecloth
+la serviette,napkin
+le verre,glass
+le verre à vin,wine glass
+la tasse,cup
+l'assiette (f),plate
+le bol,bowl
+les couverts (m),cutlery
+le couteau,knife
+la fourchette,fork
+la cuillère,spoon
+la cuillère à café,teaspoon
+le menu du jour,daily special
+le buffet,buffet
+à emporter,takeout/to go
+le bar,bar
+le café,café
+la terrasse,outdoor seating area
+la salle à manger,dining room
+le petit-déjeuner,breakfast
+le déjeuner,lunch
+le dîner,dinner
+le goûter,snack/afternoon tea
+le brunch,brunch
+l'apéritif (m),aperitif
+l'entrée (f),starter
+la garniture,garnish
+l'accompagnement (m),side dish
+le dessert,dessert
+le fromage,cheese (as a course)
+le café,coffee (after meal)
+le digestif,digestif
+le service,service
+le service compris,service included
+la dégustation,tasting
+le régime,diet
+la nutrition,nutrition
+la calorie,calorie
+la protéine,protein
+le glucide/hydrate de carbone,carbohydrate
+la graisse,fat
+la fibre,fiber
+la vitamine,vitamin
+le minéral,mineral
+végétarien,vegetarian
+végétalien/vegan,vegan
+sans gluten,gluten-free
+sans lactose,lactose-free
+bio/biologique,organic
+naturel,natural
+sain,healthy
+faible en calories,low-calorie
+faible en gras,low-fat
+faible en sucre,low-sugar
+faible en sel,low-salt
+riche en protéines,high-protein
+l'allergie (f),allergy
+l'intolérance (f),intolerance
+le jeûne,fasting
+la digestion,digestion
+le métabolisme,metabolism
+l'équilibre alimentaire (m),balanced diet
+le coq au vin,chicken in wine sauce
+le bœuf bourguignon,beef burgundy
+la ratatouille,ratatouille
+la quiche lorraine,quiche lorraine
+le cassoulet,cassoulet
+la bouillabaisse,bouillabaisse (fish stew)
+le pot-au-feu,pot-au-feu (beef stew)
+la blanquette de veau,veal blanquette
+le confit de canard,duck confit
+la soupe à l'oignon,French onion soup
+le gratin dauphinois,potato gratin
+la choucroute,sauerkraut dish
+la salade niçoise,Niçoise salad
+les escargots,snails
+la sole meunière,sole meunière
+le steak tartare,steak tartare
+les crêpes,crepes
+le soufflé,soufflé
+la tarte tatin,tarte tatin
+le croque-monsieur,croque-monsieur
+le croque-madame,croque-madame
+la raclette,raclette
+la fondue,fondue
+le foie gras,foie gras
+les cuisses de grenouille,frog legs
+la tartiflette,tartiflette
+la tapenade,tapenade
+l'aïoli (m),aioli
+le pissaladière,pissaladière (onion tart)
+le gougère,cheese puff
+le hachis parmentier,shepherd's pie
+le dessert,dessert
+le gâteau,cake
+le chocolat,chocolate
+la glace,ice cream
+le sorbet,sorbet
+la crème brûlée,crème brûlée
+la mousse au chocolat,chocolate mousse
+le pain perdu,French toast
+la tarte aux pommes,apple tart
+la tarte au citron,lemon tart
+le profiterole,profiterole
+le paris-brest,Paris-Brest (pastry)
+l'opéra (m),opera cake
+le clafoutis,clafoutis
+le macaron,macaron
+la crème caramel,crème caramel
+la charlotte,charlotte
+le baba au rhum,rum baba
+la religieuse,religieuse (pastry)
+la madeleine,madeleine
+le financier,financier
+le nougat,nougat
+la praline,praline
+la ganache,ganache
+la meringue,meringue
+la guimauve,marshmallow
+le caramel,caramel
+le bonbon,candy
+la confiserie,confectionery
+le petit four,petit four
+la pâte de fruit,fruit paste
+la crêpe Suzette,crêpe Suzette
+délicieux,delicious
+savoureux,tasty/flavorful
+succulent,succulent
+sucré,sweet
+salé,salty
+acide,sour
+amer,bitter
+épicé,spicy

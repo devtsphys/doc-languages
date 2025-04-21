@@ -1,0 +1,501 @@
+french,english
+famille,family
+père,father
+mère,mother
+papa,dad
+maman,mom
+parents,parents
+fils,son
+fille,daughter
+enfant,child
+enfants,children
+frère,brother
+sœur,sister
+grand-père,grandfather
+grand-mère,grandmother
+grands-parents,grandparents
+petit-fils,grandson
+petite-fille,granddaughter
+petits-enfants,grandchildren
+bébé,baby
+jumeaux,twins
+oncle,uncle
+tante,aunt
+cousin,male cousin
+cousine,female cousin
+neveu,nephew
+nièce,niece
+beau-frère,brother-in-law
+belle-sœur,sister-in-law
+beau-père,father-in-law/stepfather
+belle-mère,mother-in-law/stepmother
+beaux-parents,in-laws/stepparents
+gendre,son-in-law
+bru,daughter-in-law
+arrière-grand-père,great-grandfather
+arrière-grand-mère,great-grandmother
+arrière-petit-fils,great-grandson
+arrière-petite-fille,great-granddaughter
+ancêtres,ancestors
+descendants,descendants
+parent,relative
+parenté,relatives/kinship
+lignée,lineage
+génération,generation
+aîné,elder/eldest
+cadet,younger sibling
+demi-frère,half-brother
+demi-sœur,half-sister
+adopté,adopted
+filleul,godson
+filleule,goddaughter
+mari,husband
+femme,wife (also: woman)
+époux,husband/spouse
+épouse,wife
+conjoint,spouse (masculine)
+conjointe,spouse (feminine)
+mariage,marriage
+noces,wedding
+couple,couple
+partenaire,partner
+petit ami,boyfriend
+petite amie,girlfriend
+fiancé,fiancé
+fiancée,fiancée
+fiançailles,engagement
+alliance,wedding ring
+bague,ring
+marié,married (masculine)
+mariée,married (feminine)/bride
+célibataire,single
+divorcé,divorced (masculine)
+divorcée,divorced (feminine)
+veuf,widower
+veuve,widow
+séparé,separated (masculine)
+séparée,separated (feminine)
+amant,lover (masculine)
+amante,lover (feminine)
+compagnon,partner/companion (masculine)
+compagne,partner/companion (feminine)
+amour,love
+affection,affection
+passion,passion
+désir,desire
+attraction,attraction
+amoureux,in love (masculine)
+amoureuse,in love (feminine)
+romance,romance
+romantique,romantic
+cœur,heart
+sentiment,feeling
+émotion,emotion
+tendresse,tenderness
+intimité,intimacy
+admiration,admiration
+respect,respect
+confiance,trust
+honnêteté,honesty
+fidélité,fidelity
+infidélité,infidelity
+jalousie,jealousy
+dispute,argument
+réconciliation,reconciliation
+pardon,forgiveness
+complicité,complicity/intimacy
+mon amour,my love
+chéri,darling (masculine)
+chérie,darling (feminine)
+mon cœur,my heart
+trésor,treasure
+mon ange,my angel
+ma vie,my life
+mon petit,my little one (masculine)
+ma petite,my little one (feminine)
+doudou,sweetie
+mon bébé,my baby
+mon chou,my cabbage (term of endearment)
+ma puce,my flea (term of endearment)
+mon lapin,my rabbit (term of endearment)
+ma chérie,my darling (feminine)
+mon chéri,my darling (masculine)
+mon prince,my prince
+ma princesse,my princess
+mon loup,my wolf (term of endearment)
+ma douce,my sweet one (feminine)
+anniversaire,birthday
+anniversaire de mariage,wedding anniversary
+baptême,baptism
+communion,communion
+confirmation,confirmation
+remise de diplôme,graduation
+obsèques,funeral
+réunion de famille,family gathering
+fête,party/celebration
+célébration,celebration
+tradition,tradition
+héritage,heritage/inheritance
+cadeau,gift
+surprise,surprise
+félicitations,congratulations
+invitation,invitation
+souvenir,memory/keepsake
+photo,photo
+album,album
+vidéo,video
+chef de famille,head of family
+femme au foyer,housewife
+soutien de famille,breadwinner
+responsabilité,responsibility
+obligation,obligation
+sacrifice,sacrifice
+protection,protection
+éducation,education/upbringing
+discipline,discipline
+règles,rules
+valeurs,values
+coutumes,customs
+habitudes,habits
+routine,routine
+patrimoine,heritage/legacy
+nom de famille,family name/surname
+généalogie,genealogy
+arbre généalogique,family tree
+branche,branch (of family)
+relation,relationship
+conversation,conversation
+discussion,discussion
+dialogue,dialogue
+débat,debate
+conseil,advice
+soutien,support
+aide,help
+compréhension,understanding
+malentendu,misunderstanding
+confusion,confusion
+accord,agreement
+désaccord,disagreement
+secret,secret
+confidence,confidence/secret
+message,message
+appel,call
+visite,visit
+réunion,meeting/gathering
+contact,contact
+communication,communication
+grossesse,pregnancy
+enceinte,pregnant
+accouchement,childbirth
+naissance,birth
+nouveau-né,newborn
+allaitement,breastfeeding
+couche,diaper
+berceau,cradle
+biberon,baby bottle
+tétine,pacifier
+jouet,toy
+crèche,daycare
+nounou,nanny
+enfance,childhood
+adolescence,adolescence
+jeunesse,youth
+maturité,maturity
+vieillesse,old age
+croissance,growth
+développement,development
+foyer,home
+maison,house
+logement,dwelling
+toit,roof (also metaphorical)
+chambre,bedroom
+lit,bed
+cuisine,kitchen
+salle à manger,dining room
+salon,living room
+salle de bain,bathroom
+jardin,garden
+terrasse,terrace
+garage,garage
+voisin,neighbor (masculine)
+voisine,neighbor (feminine)
+quartier,neighborhood
+communauté,community
+cohabitation,cohabitation
+partage,sharing
+collaboration,collaboration
+problème,problem
+conflit,conflict
+crise,crisis
+tension,tension
+stress,stress
+inquiétude,worry
+angoisse,anguish
+frustration,frustration
+colère,anger
+fureur,fury
+rage,rage
+dispute,argument
+combat,fight
+désaccord,disagreement
+malentendu,misunderstanding
+réconciliation,reconciliation
+pardon,forgiveness
+excuse,apology
+solution,solution
+compromis,compromise
+médiation,mediation
+conseil conjugal,marriage counseling
+thérapie,therapy
+patience,patience
+tolérance,tolerance
+soin,care
+attention,attention
+soutien,support
+aide,help
+assistance,assistance
+protection,protection
+refuge,shelter/refuge
+sécurité,security
+bien-être,well-being
+santé,health
+maladie,illness
+médicament,medicine
+traitement,treatment
+hôpital,hospital
+clinique,clinic
+médecin,doctor
+infirmière,nurse
+soignant,caregiver (masculine)
+soignante,caregiver (feminine)
+vieillesse,old age
+retraite,retirement
+pension,pension
+épargne,savings
+héritage,inheritance
+testament,will/testament
+naissance,birth
+croissance,growth
+maturité,maturity
+vieillissement,aging
+mort,death
+deuil,mourning/grief
+souvenir,memory
+mémoire,memory
+héritage,legacy
+changement,change
+transition,transition
+adaptation,adaptation
+déménagement,moving (house)
+transfert,transfer
+migration,migration
+séparation,separation
+retrouvailles,reunion
+retour,return
+accueil,welcome
+intégration,integration
+repas,meal
+dîner,dinner
+déjeuner,lunch
+petit-déjeuner,breakfast
+goûter,snack
+conversation,conversation
+discussion,discussion
+débat,debate
+réunion,meeting/gathering
+fête,party
+célébration,celebration
+vacances,vacation/holidays
+voyage,trip
+excursion,excursion
+promenade,walk
+visite,visit
+jeu,game
+sport,sport
+exercice,exercise
+activité,activity
+temps libre,free time
+loisir,leisure
+divertissement,entertainment
+télévision,television
+film,movie
+argent,money
+finances,finances
+économie,economy
+budget,budget
+revenu,income
+salaire,salary
+dépense,expense
+épargne,saving
+investissement,investment
+dette,debt
+emprunt,loan
+hypothèque,mortgage
+loyer,rent
+compte,account
+carte,card
+banque,bank
+assurance,insurance
+impôt,tax
+facture,bill
+achat,purchase
+éducation,education
+école,school
+collège,middle school
+lycée,high school
+université,university
+classe,class
+cours,course
+étude,study
+devoir,homework
+examen,exam
+note,grade
+diplôme,diploma
+titre,title/degree
+remise de diplôme,graduation
+carrière,career
+profession,profession
+travail,work
+emploi,employment
+camarade de classe,classmate
+professeur,teacher
+nucléaire,nuclear (family)
+élargie,extended (family)
+nombreuse,large (family)
+petite,small (family)
+traditionnelle,traditional
+moderne,modern
+adoptive,adoptive
+biologique,biological
+par alliance,in-law
+proche,close
+éloignée,distant
+unie,united/close-knit
+problématique,problematic
+dysfonctionnelle,dysfunctional
+fonctionnelle,functional
+heureuse,happy
+triste,sad
+en colère,angry
+paisible,peaceful
+bruyante,noisy
+adoption,adoption
+garde,custody
+tutelle,guardianship
+autorité parentale,parental authority
+pension alimentaire,child support/alimony
+droit de visite,visitation rights
+patrimoine,assets
+héritage,inheritance
+testament,will/testament
+acte de naissance,birth certificate
+document,document
+certificat,certificate
+identification,identification
+état civil,civil status
+juge,judge
+tribunal,court
+avocat,lawyer
+médiateur,mediator
+conseiller,advisor
+assistant social,social worker
+lien,bond
+attache,tie
+union,union
+proximité,closeness
+distance,distance
+loyauté,loyalty
+respect,respect
+confiance,trust
+honnêteté,honesty
+sincérité,sincerity
+compréhension,understanding
+tolérance,tolerance
+patience,patience
+responsabilité,responsibility
+engagement,commitment
+dévouement,devotion
+sacrifice,sacrifice
+générosité,generosity
+compassion,compassion
+empathie,empathy
+adoption,adoption
+accueil,fostering
+orphelin,orphan (masculine)
+orpheline,orphan (feminine)
+tutelle,guardianship
+tuteur,guardian (masculine)
+tutrice,guardian (feminine)
+dépendant,dependent
+charge de famille,family dependent
+fils unique,only son
+fille unique,only daughter
+famille monoparentale,single-parent family
+mère célibataire,single mother
+père célibataire,single father
+famille recomposée,blended family
+famille d'accueil,foster family
+famille adoptive,adoptive family
+famille nombreuse,large family
+famille modeste,modest family
+famille aisée,well-off family
+tradition,tradition
+coutume,custom
+culture,culture
+religion,religion
+foi,faith
+croyance,belief
+valeur,value
+morale,moral
+éthique,ethics
+cérémonie,ceremony
+rituel,ritual
+sacrement,sacrament
+bénédiction,blessing
+prière,prayer
+église,church
+temple,temple
+mosquée,mosque
+synagogue,synagogue
+communauté,community
+congrégation,congregation
+aimer,to love
+chérir,to cherish
+soigner,to care for
+protéger,to protect
+soutenir,to support
+aider,to help
+élever,to raise
+éduquer,to educate
+enseigner,to teach
+apprendre,to learn
+grandir,to grow
+mûrir,to mature
+vieillir,to age
+naître,to be born
+mourir,to die
+vivre,to live
+partager,to share
+communiquer,to communicate
+comprendre,to understand
+écouter,to listen
+parler,to talk
+discuter,to discuss
+se disputer,to argue
+se réconcilier,to reconcile
+pardonner,to forgive
+s'excuser,to apologize
+remercier,to thank
+célébrer,to celebrate
+se réunir,to gather
+se séparer,to separate
+divorcer,to divorce
+marier,to marry
+fiancer,to engage
+connaître,to know/meet
+présenter,to introduce
+visiter,to visit
+appeler,to call
+écrire,to write
+se souvenir,to remember
+oublier,to forget

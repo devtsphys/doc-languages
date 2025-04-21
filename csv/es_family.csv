@@ -1,0 +1,501 @@
+spanish,english
+familia,family
+padre,father
+madre,mother
+papá,dad
+mamá,mom
+padres,parents
+hijo,son
+hija,daughter
+hijos,children
+hermano,brother
+hermana,sister
+hermanos,siblings
+abuelo,grandfather
+abuela,grandmother
+abuelos,grandparents
+nieto,grandson
+nieta,granddaughter
+nietos,grandchildren
+bebé,baby
+gemelos,twins
+tío,uncle
+tía,aunt
+tíos,uncles/aunt and uncle
+primo,male cousin
+prima,female cousin
+primos,cousins
+sobrino,nephew
+sobrina,niece
+sobrinos,nephews/nieces
+cuñado,brother-in-law
+cuñada,sister-in-law
+suegro,father-in-law
+suegra,mother-in-law
+suegros,parents-in-law
+yerno,son-in-law
+nuera,daughter-in-law
+bisabuelo,great-grandfather
+bisabuela,great-grandmother
+bisnieto,great-grandson
+bisnieta,great-granddaughter
+tataranieto,great-great-grandson
+tataranieta,great-great-granddaughter
+antepasados,ancestors
+descendientes,descendants
+pariente,relative
+familiar,family member
+madrastra,stepmother
+padrastro,stepfather
+hermanastro,stepbrother
+hermanastra,stepsister
+esposo,husband
+esposa,wife
+esposos,spouses
+marido,husband
+mujer,wife (also: woman)
+matrimonio,marriage
+boda,wedding
+pareja,couple/partner
+novio,boyfriend/fiancé
+novia,girlfriend/fiancée
+prometido,fiancé
+prometida,fiancée
+compromiso,engagement
+anillo,ring
+casado,married (masculine)
+casada,married (feminine)
+soltero,single (masculine)
+soltera,single (feminine)
+divorciado,divorced (masculine)
+divorciada,divorced (feminine)
+viudo,widower
+viuda,widow
+separado,separated (masculine)
+separada,separated (feminine)
+amante,lover
+compañero,partner/companion (masculine)
+compañera,partner/companion (feminine)
+relación,relationship
+unión,union
+divorcio,divorce
+amor,love
+cariño,affection/endearment
+pasión,passion
+deseo,desire
+atracción,attraction
+enamorado,in love (masculine)
+enamorada,in love (feminine)
+romance,romance
+romántico,romantic
+corazón,heart
+sentimiento,feeling
+emoción,emotion
+afecto,affection
+ternura,tenderness
+intimidad,intimacy
+admiración,admiration
+respeto,respect
+confianza,trust
+honestidad,honesty
+fidelidad,fidelity
+infidelidad,infidelity
+celos,jealousy
+pelea,fight/argument
+reconciliación,reconciliation
+perdón,forgiveness
+mi amor,my love
+cariño,darling
+querido,dear (masculine)
+querida,dear (feminine)
+corazón,sweetheart (lit: heart)
+tesoro,treasure
+cielo,heaven/sweetie
+vida,"life (as in ""my life"")"
+precioso,precious (masculine)
+preciosa,precious (feminine)
+bebé,baby
+hermoso,beautiful (masculine)
+hermosa,beautiful (feminine)
+dulce,sweet
+lindo,cute/pretty (masculine)
+linda,cute/pretty (feminine)
+guapo,handsome
+bonita,pretty
+príncipe,prince
+princesa,princess
+cumpleaños,birthday
+aniversario,anniversary
+bautizo,baptism
+comunión,communion
+confirmación,confirmation
+graduación,graduation
+funeral,funeral
+reunión familiar,family gathering
+fiesta,party
+celebración,celebration
+tradición,tradition
+herencia,heritage/inheritance
+regalo,gift
+sorpresa,surprise
+felicitación,congratulation
+invitación,invitation
+recuerdo,memory/souvenir
+fotografía,photograph
+álbum,album
+video,video
+cabeza de familia,head of family
+ama de casa,housewife
+proveedor,provider
+sustento,support/livelihood
+responsabilidad,responsibility
+obligación,obligation
+sacrificio,sacrifice
+protección,protection
+educación,education/upbringing
+crianza,upbringing
+disciplina,discipline
+reglas,rules
+valores,values
+costumbres,customs
+generación,generation
+legado,legacy
+apellido,surname/family name
+linaje,lineage
+rama,branch (of family)
+árbol genealógico,family tree
+conversación,conversation
+charla,chat
+diálogo,dialogue
+discusión,discussion/argument
+consejo,advice
+apoyo,support
+ayuda,help
+comprensión,understanding
+malentendido,misunderstanding
+confusión,confusion
+acuerdo,agreement
+desacuerdo,disagreement
+secreto,secret
+confidencia,confidence/secret
+mensaje,message
+llamada,call
+visita,visit
+reunión,meeting/gathering
+contacto,contact
+comunicación,communication
+embarazo,pregnancy
+embarazada,pregnant
+parto,childbirth
+nacimiento,birth
+recién nacido,newborn
+lactancia,breastfeeding
+pañal,diaper
+cuna,crib
+biberón,baby bottle
+chupete,pacifier
+juguete,toy
+guardería,daycare
+niñera,babysitter
+infancia,childhood
+adolescencia,adolescence
+juventud,youth
+madurez,maturity
+vejez,old age
+crecimiento,growth
+desarrollo,development
+hogar,home
+casa,house
+vivienda,dwelling
+techo,roof (also metaphorical)
+habitación,room
+cama,bed
+cocina,kitchen
+comedor,dining room
+sala,living room
+baño,bathroom
+jardín,garden
+patio,patio/yard
+garaje,garage
+vecino,neighbor (masculine)
+vecina,neighbor (feminine)
+vecindario,neighborhood
+comunidad,community
+convivencia,coexistence/living together
+compartir,to share
+colaboración,collaboration
+problema,problem
+conflicto,conflict
+crisis,crisis
+tensión,tension
+estrés,stress
+preocupación,worry
+angustia,anguish
+frustración,frustration
+enojo,anger
+ira,wrath/anger
+rabia,rage
+discusión,argument
+pelea,fight
+desacuerdo,disagreement
+malentendido,misunderstanding
+reconciliación,reconciliation
+perdón,forgiveness
+disculpa,apology
+solución,solution
+compromiso,compromise
+mediación,mediation
+consejería,counseling
+terapia,therapy
+paciencia,patience
+tolerancia,tolerance
+cuidado,care
+atención,attention
+apoyo,support
+ayuda,help
+asistencia,assistance
+protección,protection
+amparo,shelter/protection
+seguridad,security
+bienestar,well-being
+salud,health
+enfermedad,illness
+medicina,medicine
+tratamiento,treatment
+hospital,hospital
+clínica,clinic
+médico,doctor
+enfermera,nurse
+cuidador,caregiver (masculine)
+cuidadora,caregiver (feminine)
+vejez,old age
+jubilación,retirement
+pensión,pension
+ahorros,savings
+herencia,inheritance
+testamento,will/testament
+nacimiento,birth
+crecimiento,growth
+madurez,maturity
+envejecimiento,aging
+muerte,death
+luto,mourning
+duelo,grief
+memoria,memory
+recuerdo,memory/memento
+legado,legacy
+cambio,change
+transición,transition
+adaptación,adaptation
+mudanza,move (changing residence)
+traslado,transfer/relocation
+migración,migration
+separación,separation
+reunión,reunion
+regreso,return
+bienvenida,welcome
+comida,meal
+cena,dinner
+almuerzo,lunch
+desayuno,breakfast
+merienda,snack
+conversación,conversation
+charla,chat
+discusión,discussion
+reunión,meeting/gathering
+fiesta,party
+celebración,celebration
+vacaciones,vacation
+viaje,trip
+excursión,excursion
+paseo,walk/outing
+visita,visit
+juego,game
+deporte,sport
+ejercicio,exercise
+actividad,activity
+tiempo libre,free time
+ocio,leisure
+entretenimiento,entertainment
+televisión,television
+película,movie
+dinero,money
+finanzas,finances
+economía,economy
+presupuesto,budget
+ingreso,income
+salario,salary
+gasto,expense
+ahorro,saving
+inversión,investment
+deuda,debt
+préstamo,loan
+hipoteca,mortgage
+alquiler,rent
+cuenta,account
+tarjeta,card
+banco,bank
+seguro,insurance
+impuesto,tax
+factura,bill
+compra,purchase
+educación,education
+escuela,school
+colegio,school
+universidad,university
+instituto,high school/institute
+clase,class
+curso,course
+estudio,study
+tarea,homework
+examen,exam
+nota,grade
+diploma,diploma
+título,degree/title
+graduación,graduation
+carrera,career/degree
+profesión,profession
+trabajo,work/job
+empleo,employment
+compañero de clase,classmate
+profesor,teacher
+nuclear,nuclear (family)
+extendida,extended (family)
+numerosa,large (family)
+pequeña,small (family)
+tradicional,traditional
+moderna,modern
+adoptiva,adoptive
+biológica,biological
+política,in-law
+cercana,close
+lejana,distant
+unida,united/close-knit
+problemática,problematic
+disfuncional,dysfunctional
+funcional,functional
+feliz,happy
+triste,sad
+enojada,angry
+tranquila,peaceful
+ruidosa,noisy
+adopción,adoption
+custodia,custody
+tutela,guardianship
+patria potestad,parental authority
+manutención,child support/maintenance
+pensión alimenticia,alimony
+régimen de visitas,visitation rights
+patrimonio,patrimony/assets
+herencia,inheritance
+testamento,will/testament
+acta de nacimiento,birth certificate
+documento,document
+certificado,certificate
+identificación,identification
+registro civil,civil registry
+juez,judge
+tribunal,court
+abogado,lawyer
+mediador,mediator
+asesor,advisor
+vínculo,bond
+lazo,tie
+unión,union
+cercanía,closeness
+distancia,distance
+lealtad,loyalty
+respeto,respect
+confianza,trust
+honestidad,honesty
+sinceridad,sincerity
+comprensión,understanding
+tolerancia,tolerance
+paciencia,patience
+responsabilidad,responsibility
+compromiso,commitment
+dedicación,dedication
+sacrificio,sacrifice
+generosidad,generosity
+compasión,compassion
+empatía,empathy
+adopción,adoption
+acogida,fostering
+orfandad,orphanhood
+huérfano,orphan (masculine)
+huérfana,orphan (feminine)
+tutela,guardianship
+tutor,guardian (masculine)
+tutora,guardian (feminine)
+dependiente,dependent
+carga familiar,family burden
+hijo único,only child (masculine)
+hija única,only child (feminine)
+familia monoparental,single-parent family
+madre soltera,single mother
+padre soltero,single father
+familia ensamblada,blended family
+familia adoptiva,adoptive family
+familia de acogida,foster family
+familia numerosa,large family
+familia pequeña,small family
+tradición,tradition
+costumbre,custom
+cultura,culture
+religión,religion
+fe,faith
+creencia,belief
+valor,value
+moral,moral
+ética,ethics
+ceremonia,ceremony
+ritual,ritual
+sacramento,sacrament
+bendición,blessing
+oración,prayer
+iglesia,church
+templo,temple
+mezquita,mosque
+sinagoga,synagogue
+comunidad,community
+congregación,congregation
+amar,to love
+querer,to love/want
+cuidar,to care for
+proteger,to protect
+apoyar,to support
+ayudar,to help
+criar,to raise
+educar,to educate
+enseñar,to teach
+aprender,to learn
+crecer,to grow
+madurar,to mature
+envejecer,to age
+nacer,to be born
+morir,to die
+vivir,to live
+compartir,to share
+comunicar,to communicate
+entender,to understand
+escuchar,to listen
+hablar,to talk
+discutir,to discuss/argue
+pelear,to fight
+reconciliar,to reconcile
+perdonar,to forgive
+disculpar,to apologize/excuse
+agradecer,to thank
+celebrar,to celebrate
+reunir,to gather/meet
+separar,to separate
+divorciar,to divorce
+casar,to marry
+comprometer,to engage
+conocer,to meet/know
+presentar,to introduce
+visitar,to visit
+llamar,to call
+escribir,to write
+recordar,to remember
+olvidar,to forget

@@ -1,0 +1,501 @@
+spanish,english
+la comida,food
+el desayuno,breakfast
+el almuerzo,lunch
+la cena,dinner
+la merienda,snack/afternoon tea
+el aperitivo,appetizer
+el postre,dessert
+el plato,plate/dish
+la bebida,drink
+la receta,recipe
+la manzana,apple
+el plátano/la banana,banana
+la naranja,orange
+la fresa,strawberry
+el limón,lemon
+la lima,lime
+la piña,pineapple
+la uva,grape
+el melocotón/el durazno,peach
+la pera,pear
+la sandía,watermelon
+el melón,melon
+el kiwi,kiwi
+la cereza,cherry
+la frambuesa,raspberry
+el arándano,blueberry
+la mora,blackberry
+el mango,mango
+la granada,pomegranate
+el aguacate,avocado
+el coco,coconut
+la mandarina,tangerine
+el albaricoque,apricot
+la ciruela,plum
+la papaya,papaya
+el higo,fig
+la fruta,fruit
+la zanahoria,carrot
+la patata/la papa,potato
+el tomate,tomato
+la cebolla,onion
+el ajo,garlic
+la lechuga,lettuce
+el pepino,cucumber
+el pimiento,bell pepper
+el maíz,corn
+la calabaza,pumpkin/squash
+el calabacín,zucchini
+la berenjena,eggplant
+la espinaca,spinach
+el brócoli,broccoli
+la coliflor,cauliflower
+la judía verde/ejote,green bean
+el champiñón,mushroom
+el guisante/chícharo,pea
+la remolacha,beet
+el repollo/col,cabbage
+la alcachofa,artichoke
+el espárrago,asparagus
+la cebolleta/cebolla verde,green onion
+el puerro,leek
+el apio,celery
+el rábano,radish
+la acelga,chard
+el jengibre,ginger
+la zanahoria,carrot
+la verdura,vegetable
+la carne,meat
+el pollo,chicken
+la ternera/res,beef
+el cerdo,pork
+el cordero,lamb
+el jamón,ham
+el tocino/bacon,bacon
+la salchicha,sausage
+el filete,steak
+la chuleta,chop
+el pavo,turkey
+el pato,duck
+la carne molida/picada,ground meat
+el bistec,steak
+el lomo,tenderloin
+la costilla,rib
+el chorizo,chorizo sausage
+el jamón serrano,cured ham
+el jamón de york,cooked ham
+el conejo,rabbit
+la pechuga,breast (meat)
+el muslo,thigh
+el ala,wing
+el hígado,liver
+la tripa,tripe
+el pescado,fish
+el marisco,seafood
+el atún,tuna
+el salmón,salmon
+la merluza,hake
+el bacalao,cod
+la dorada,sea bream
+la lubina,sea bass
+el lenguado,sole
+la trucha,trout
+la sardina,sardine
+el boquerón/anchoa,anchovy
+el camarón/gamba,shrimp
+la langosta,lobster
+el cangrejo,crab
+el pulpo,octopus
+el calamar,squid
+la vieira,scallop
+el mejillón,mussel
+la almeja,clam
+la ostra,oyster
+la leche,milk
+el queso,cheese
+el yogur,yogurt
+la mantequilla,butter
+la nata/crema,cream
+el huevo,egg
+el queso fresco,fresh cheese
+el queso curado,aged cheese
+el queso manchego,Manchego cheese
+el queso de cabra,goat cheese
+la clara,egg white
+la yema,egg yolk
+el requesón,cottage cheese
+la cuajada,curdled milk
+el arroz,rice
+la pasta,pasta
+el pan,bread
+la harina,flour
+el trigo,wheat
+el maíz,corn
+la avena,oats
+el frijol/la judía,bean
+la lenteja,lentil
+el garbanzo,chickpea
+el guisante,pea
+la soja/soya,soy
+la quinoa,quinoa
+el centeno,rye
+la cebada,barley
+el mijo,millet
+la espelta,spelt
+el bulgur,bulgur
+el cuscús,couscous
+el pan,bread
+la barra/el baguette,baguette
+el pan integral,whole wheat bread
+el pan de molde,sliced bread
+la tostada,toast
+el bollo,roll
+el cruasán,croissant
+el panecillo,bread roll
+la magdalena,muffin
+el pastel,cake
+la tarta,cake/pie
+la galleta,cookie/biscuit
+el bizcocho,sponge cake
+el churro,churro
+la empanada,empanada/turnover
+el donut/la rosquilla,doughnut
+el pretzel,pretzel
+la masa,dough
+la sal,salt
+la pimienta,pepper
+el azúcar,sugar
+el aceite,oil
+el aceite de oliva,olive oil
+el vinagre,vinegar
+la salsa,sauce
+la mayonesa,mayonnaise
+la mostaza,mustard
+el kétchup,ketchup
+la salsa de tomate,tomato sauce
+la salsa de soja,soy sauce
+el ají/chile,chili
+el orégano,oregano
+el perejil,parsley
+el cilantro/culantro,coriander/cilantro
+el tomillo,thyme
+el romero,rosemary
+la albahaca,basil
+la canela,cinnamon
+el comino,cumin
+el jengibre,ginger
+la nuez moscada,nutmeg
+el azafrán,saffron
+la vainilla,vanilla
+la miel,honey
+la mermelada,jam
+el jarabe,syrup
+la manteca,lard
+la margarina,margarine
+el aderezo,dressing
+el aliño,dressing
+el condimento,condiment
+la especia,spice
+la pimienta negra,black pepper
+la pimienta blanca,white pepper
+la nuez,walnut
+la almendra,almond
+el cacahuete/maní,peanut
+el pistacho,pistachio
+la avellana,hazelnut
+la castaña,chestnut
+la semilla,seed
+la semilla de girasol,sunflower seed
+la semilla de calabaza,pumpkin seed
+la semilla de chía,chia seed
+la semilla de lino,flaxseed
+la semilla de sésamo,sesame seed
+la pasa,raisin
+el dátil,date
+el piñón,pine nut
+el anacardo,cashew
+el coco,coconut
+la nuez de Brasil,Brazil nut
+el agua,water
+el café,coffee
+el té,tea
+el jugo/zumo,juice
+la leche,milk
+el refresco/la gaseosa,soda
+la cerveza,beer
+el vino,wine
+el vino tinto,red wine
+el vino blanco,white wine
+el champán/cava,champagne
+el cóctel,cocktail
+el licor,liquor
+el whisky,whiskey
+el ron,rum
+el vodka,vodka
+el tequila,tequila
+la sangría,sangria
+la limonada,lemonade
+el batido,milkshake/smoothie
+el chocolate caliente,hot chocolate
+el espresso,espresso
+el capuchino,cappuccino
+el café con leche,coffee with milk
+el cortado,espresso with a dash of milk
+la infusión,herbal tea
+la manzanilla,chamomile tea
+el té verde,green tea
+el té negro,black tea
+la sidra,cider
+el vermut,vermouth
+cocinar,to cook
+hervir,to boil
+freír,to fry
+asar,to roast/grill
+hornear,to bake
+cocer al vapor,to steam
+saltear,to sauté
+batir,to beat/whisk
+mezclar,to mix
+cortar,to cut
+picar,to chop
+pelar,to peel
+rallar,to grate
+moler,to grind
+marinar,to marinate
+sazonar,to season
+condimentar,to flavor/season
+derretir,to melt
+calentar,to heat
+enfriar,to cool
+congelar,to freeze
+descongelar,to defrost/thaw
+servir,to serve
+probar,to taste
+la receta,recipe
+el ingrediente,ingredient
+la porción,portion/serving
+la cocción,cooking
+crudo,raw
+cocido,cooked
+frito,fried
+asado,roasted/grilled
+horneado,baked
+hervido,boiled
+al dente,al dente
+la sartén,frying pan
+la olla,pot
+la cazuela,casserole dish
+el horno,oven
+el microondas,microwave
+la licuadora,blender
+la batidora,mixer
+el cuchillo,knife
+el tenedor,fork
+la cuchara,spoon
+la espátula,spatula
+el colador,strainer
+la tabla de cortar,cutting board
+el restaurante,restaurant
+el menú,menu
+la carta,menu (à la carte)
+el camarero/la camarera,waiter/waitress
+el chef/cocinero,chef/cook
+la propina,tip
+la cuenta,bill/check
+la reserva,reservation
+el primer plato,first course
+el segundo plato,main course
+el plato principal,main dish
+la especialidad,specialty
+la mesa,table
+la silla,chair
+el mantel,tablecloth
+la servilleta,napkin
+el vaso,glass
+la copa,wine glass
+la taza,cup
+el plato,plate
+el tazón,bowl
+los cubiertos,cutlery
+el cuchillo,knife
+el tenedor,fork
+la cuchara,spoon
+la cucharilla,teaspoon
+el menú del día,daily special
+el bufé/buffet,buffet
+para llevar,takeout/to go
+el bar,bar
+la cafetería,café
+la terraza,outdoor seating area
+el comedor,dining room
+el desayuno,breakfast
+el almuerzo,lunch
+la cena,dinner
+la merienda,snack/afternoon tea
+el brunch,brunch
+el aperitivo,appetizer
+el entrante,starter
+la guarnición,side dish
+la entrada,appetizer/starter
+el plato fuerte,main course
+el acompañamiento,side dish
+el postre,dessert
+la dieta,diet
+la nutrición,nutrition
+la caloría,calorie
+la proteína,protein
+el carbohidrato,carbohydrate
+la grasa,fat
+la fibra,fiber
+la vitamina,vitamin
+el mineral,mineral
+vegetariano,vegetarian
+vegano,vegan
+sin gluten,gluten-free
+sin lactosa,lactose-free
+orgánico/ecológico,organic
+natural,natural
+saludable,healthy
+bajo en calorías,low-calorie
+bajo en grasa,low-fat
+bajo en azúcar,low-sugar
+bajo en sal,low-salt
+alto en proteínas,high-protein
+la alergia,allergy
+la intolerancia,intolerance
+la nutrición,nutrition
+el ayuno,fasting
+la digestión,digestion
+el metabolismo,metabolism
+la paella,paella
+la tortilla española,Spanish omelette
+el gazpacho,gazpacho
+las tapas,tapas
+la sangría,sangria
+el jamón ibérico,Iberian ham
+el pulpo a la gallega,Galician-style octopus
+la fabada,bean stew
+el cocido madrileño,Madrid stew
+las croquetas,croquettes
+la pinchos,skewers/pintxos
+el chorizo,chorizo
+la morcilla,blood sausage
+las albóndigas,meatballs
+las migas,bread crumbs dish
+el salmorejo,cold tomato soup
+la ensaladilla rusa,Russian salad
+los calamares a la romana,fried squid rings
+el alioli,garlic mayonnaise
+la escalivada,roasted vegetables
+los churros con chocolate,churros with chocolate
+los tacos,tacos
+las enchiladas,enchiladas
+los burritos,burritos
+el guacamole,guacamole
+la salsa,salsa
+los frijoles,beans
+el arroz con frijoles,rice and beans
+el ceviche,ceviche
+las arepas,arepas
+las empanadas,empanadas
+los tamales,tamales
+el mole,mole sauce
+la tortilla (de maíz/harina),corn/flour tortilla
+el chili con carne,chili con carne
+las pupusas,pupusas
+el asado,barbecue
+las tostadas,tostadas
+los nachos,nachos
+las quesadillas,quesadillas
+el chimichurri,chimichurri sauce
+el postre,dessert
+el pastel/la tarta,cake
+el chocolate,chocolate
+el helado,ice cream
+el flan,crème caramel/flan
+las natillas,custard
+el arroz con leche,rice pudding
+la tarta de queso,cheesecake
+la tarta de manzana,apple pie
+el bizcocho,sponge cake
+las galletas,cookies/biscuits
+los churros,churros
+el pudín,pudding
+el mousse,mousse
+la crema catalana,Catalan cream
+el turrón,nougat
+el mazapán,marzipan
+las trufas,truffles
+el caramelo,caramel
+los bombones,chocolates
+el dulce de leche,milk caramel
+el merengue,meringue
+la gelatina,jelly/gelatin
+el sorbete,sorbet
+la crema,cream
+la crema batida,whipped cream
+el barquillo,wafer
+el polvorón,shortbread
+el mantecado,traditional Spanish cookie
+los buñuelos,fritters
+delicioso,delicious
+sabroso,tasty
+rico,rich/delicious
+dulce,sweet
+salado,salty
+ácido,sour
+amargo,bitter
+picante,spicy
+suave,mild/soft
+fuerte,strong
+fresco,fresh
+caliente,hot (temperature)
+frío,cold
+tibio,warm
+congelado,frozen
+jugoso,juicy
+seco,dry
+crujiente,crunchy/crispy
+blando,soft
+duro,hard
+tierno,tender
+maduro,ripe
+verde,unripe
+pasado,overripe
+cocido,cooked
+crudo,raw
+al punto,medium (for meat)
+poco hecho,rare (for meat)
+muy hecho,well done (for meat)
+casero,homemade
+artesanal,artisanal
+típico,typical
+tradicional,traditional
+gourmet,gourmet
+exótico,exotic
+local,local
+importado,imported
+de temporada,seasonal
+orgánico,organic
+procesado,processed
+el hambre,hunger
+la sed,thirst
+el sabor,flavor/taste
+el olor,smell
+el aroma,aroma
+el apetito,appetite
+el gusto,taste
+la dieta,diet
+el alimento,food/nourishment
+la comida rápida,fast food
+el ingrediente secreto,secret ingredient
+la receta familiar,family recipe
+la cocina casera,home cooking
+la cocina tradicional,traditional cuisine
+la cocina internacional,international cuisine
+la cocina fusión,fusion cuisine
+la cocina vegetariana,vegetarian cuisine
+la cocina vegana,vegan cuisine
+la gastronomía,gastronomy
+el buen provecho/que aproveche,enjoy your meal
