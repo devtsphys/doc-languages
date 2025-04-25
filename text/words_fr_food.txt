@@ -1,0 +1,552 @@
+# Top French Food and Dining Vocabulary with English Translations
+
+## Basic Food Terms
+
+1. la nourriture - food
+2. le repas - meal
+3. le petit-déjeuner - breakfast
+4. le déjeuner - lunch
+5. le dîner - dinner
+6. le goûter - snack/afternoon tea
+7. l'entrée (f) - starter/appetizer
+8. le plat principal - main course
+9. le dessert - dessert
+10. la boisson - drink
+11. la recette - recipe
+12. le menu - menu
+13. la cuisine - cooking/kitchen
+14. le goût - taste/flavor
+15. l'ingrédient (m) - ingredient
+
+## Fruits (Les Fruits)
+
+16. la pomme - apple
+17. la banane - banana
+18. l'orange (f) - orange
+19. la fraise - strawberry
+20. le citron - lemon
+21. le citron vert - lime
+22. l'ananas (m) - pineapple
+23. le raisin - grape
+24. la pêche - peach
+25. la poire - pear
+26. la pastèque - watermelon
+27. le melon - melon
+28. le kiwi - kiwi
+29. la cerise - cherry
+30. la framboise - raspberry
+31. la myrtille - blueberry
+32. la mûre - blackberry
+33. la mangue - mango
+34. la grenade - pomegranate
+35. l'avocat (m) - avocado
+36. la noix de coco - coconut
+37. la mandarine - tangerine
+38. l'abricot (m) - apricot
+39. la prune - plum
+40. la papaye - papaya
+41. la figue - fig
+42. le fruit - fruit
+43. les fruits rouges - berries
+44. les agrumes - citrus fruits
+
+## Vegetables (Les Légumes)
+
+45. la carotte - carrot
+46. la pomme de terre - potato
+47. la tomate - tomato
+48. l'oignon (m) - onion
+49. l'ail (m) - garlic
+50. la laitue - lettuce
+51. le concombre - cucumber
+52. le poivron - bell pepper
+53. le maïs - corn
+54. la citrouille - pumpkin
+55. la courgette - zucchini
+56. l'aubergine (f) - eggplant
+57. les épinards (m) - spinach
+58. le brocoli - broccoli
+59. le chou-fleur - cauliflower
+60. le haricot vert - green bean
+61. le champignon - mushroom
+62. le petit pois - pea
+63. la betterave - beet
+64. le chou - cabbage
+65. l'artichaut (m) - artichoke
+66. l'asperge (f) - asparagus
+67. la ciboulette - chives
+68. le poireau - leek
+69. le céleri - celery
+70. le radis - radish
+71. la blette - chard
+72. le gingembre - ginger
+73. le légume - vegetable
+74. la salade - salad
+75. les herbes (f) - herbs
+76. les crudités (f) - raw vegetables
+
+## Meat and Poultry (Viande et Volaille)
+
+77. la viande - meat
+78. le poulet - chicken
+79. le bœuf - beef
+80. le porc - pork
+81. l'agneau (m) - lamb
+82. le jambon - ham
+83. le lard - bacon
+84. la saucisse - sausage
+85. le steak - steak
+86. la côtelette - chop
+87. la dinde - turkey
+88. le canard - duck
+89. la viande hachée - ground meat
+90. le filet - fillet
+91. le gigot - leg (of lamb)
+92. les côtes (f) - ribs
+93. le foie - liver
+94. le lapin - rabbit
+95. la poitrine - breast (meat)
+96. la cuisse - thigh
+97. l'aile (f) - wing
+98. l'andouillette (f) - tripe sausage
+99. le veau - veal
+100. le rôti - roast
+101. le gibier - game meat
+102. la volaille - poultry
+103. la charcuterie - cured meats
+
+## Seafood (Fruits de Mer et Poissons)
+
+104. le poisson - fish
+105. les fruits de mer (m) - seafood
+106. le thon - tuna
+107. le saumon - salmon
+108. le merlu - hake
+109. la morue - cod
+110. la dorade - sea bream
+111. le bar - sea bass
+112. la sole - sole
+113. la truite - trout
+114. la sardine - sardine
+115. l'anchois (m) - anchovy
+116. la crevette - shrimp
+117. le homard - lobster
+118. le crabe - crab
+119. le poulpe - octopus
+120. le calamar - squid
+121. la coquille Saint-Jacques - scallop
+122. la moule - mussel
+123. la palourde - clam
+124. l'huître (f) - oyster
+125. le hareng - herring
+126. le maquereau - mackerel
+127. le cabillaud - cod
+128. la lotte - monkfish
+129. l'espadon (m) - swordfish
+130. les crustacés (m) - shellfish
+
+## Dairy Products (Produits Laitiers)
+
+131. le lait - milk
+132. le fromage - cheese
+133. le yaourt/yogourt - yogurt
+134. le beurre - butter
+135. la crème - cream
+136. l'œuf (m) - egg
+137. le camembert - Camembert cheese
+138. le brie - Brie cheese
+139. le roquefort - Roquefort cheese
+140. le chèvre - goat cheese
+141. le blanc d'œuf - egg white
+142. le jaune d'œuf - egg yolk
+143. le fromage blanc - quark/cottage cheese
+144. la crème fraîche - crème fraîche
+145. la crème fouettée - whipped cream
+146. le gruyère - Gruyère cheese
+147. le comté - Comté cheese
+148. l'emmental (m) - Emmental cheese
+149. le reblochon - Reblochon cheese
+150. le munster - Munster cheese
+
+## Grains and Legumes (Céréales et Légumineuses)
+
+151. le riz - rice
+152. les pâtes (f) - pasta
+153. le pain - bread
+154. la farine - flour
+155. le blé - wheat
+156. le maïs - corn
+157. l'avoine (f) - oats
+158. le haricot - bean
+159. la lentille - lentil
+160. le pois chiche - chickpea
+161. le petit pois - pea
+162. le soja - soy
+163. le quinoa - quinoa
+164. le seigle - rye
+165. l'orge (f) - barley
+166. le millet - millet
+167. l'épeautre (m) - spelt
+168. le boulgour - bulgur
+169. le couscous - couscous
+170. le sarrasin - buckwheat
+171. le semoule - semolina
+172. le céréale - cereal
+173. la légumineuse - legume
+
+## Bread and Pastries (Pain et Pâtisseries)
+
+174. le pain - bread
+175. la baguette - baguette
+176. le pain complet - whole wheat bread
+177. le pain de mie - sliced bread
+178. le toast - toast
+179. le petit pain - roll
+180. le croissant - croissant
+181. le brioche - brioche
+182. le muffin - muffin
+183. le gâteau - cake
+184. la tarte - pie/tart
+185. le biscuit - cookie/biscuit
+186. le pain au chocolat - chocolate pastry
+187. la crêpe - crepe
+188. le macaron - macaron
+189. l'éclair (m) - eclair
+190. le mille-feuille - mille-feuille/Napoleon
+191. la madeleine - madeleine
+192. le financier - financier (almond cake)
+193. la pâte - dough/paste
+194. la pâte feuilletée - puff pastry
+195. la pâte brisée - shortcrust pastry
+196. la pâte à choux - choux pastry
+197. la viennoiserie - pastry
+198. la pâtisserie - pastry/pastry shop
+199. la boulangerie - bakery
+200. la levure - yeast
+201. le pain grillé - toast
+202. le pain aux raisins - raisin bread
+203. le chausson aux pommes - apple turnover
+
+## Condiments and Spices (Condiments et Épices)
+
+204. le sel - salt
+205. le poivre - pepper
+206. le sucre - sugar
+207. l'huile (f) - oil
+208. l'huile d'olive (f) - olive oil
+209. le vinaigre - vinegar
+210. la sauce - sauce
+211. la mayonnaise - mayonnaise
+212. la moutarde - mustard
+213. le ketchup - ketchup
+214. la sauce tomate - tomato sauce
+215. la sauce soja - soy sauce
+216. le piment - chili
+217. l'origan (m) - oregano
+218. le persil - parsley
+219. la coriandre - coriander/cilantro
+220. le thym - thyme
+221. le romarin - rosemary
+222. le basilic - basil
+223. la cannelle - cinnamon
+224. le cumin - cumin
+225. le gingembre - ginger
+226. la muscade - nutmeg
+227. le safran - saffron
+228. la vanille - vanilla
+229. le miel - honey
+230. la confiture - jam
+231. le sirop - syrup
+232. le saindoux - lard
+233. la margarine - margarine
+234. la vinaigrette - vinaigrette
+235. l'assaisonnement (m) - seasoning
+236. le condiment - condiment
+237. l'épice (f) - spice
+238. l'herbe (f) - herb
+239. le curry - curry
+240. le paprika - paprika
+
+## Nuts and Seeds (Fruits à Coque et Graines)
+
+241. la noix - walnut
+242. l'amande (f) - almond
+243. la cacahuète/l'arachide (f) - peanut
+244. la pistache - pistachio
+245. la noisette - hazelnut
+246. la châtaigne - chestnut
+247. la graine - seed
+248. la graine de tournesol - sunflower seed
+249. la graine de citrouille - pumpkin seed
+250. la graine de chia - chia seed
+251. la graine de lin - flaxseed
+252. la graine de sésame - sesame seed
+253. le raisin sec - raisin
+254. la datte - date
+255. le pignon - pine nut
+256. la noix de cajou - cashew
+257. la noix de pécan - pecan
+258. la noix du Brésil - Brazil nut
+259. la noix de macadamia - macadamia nut
+260. les fruits secs - dried fruits
+261. les fruits à coque - nuts
+
+## Beverages (Boissons)
+
+262. l'eau (f) - water
+263. le café - coffee
+264. le thé - tea
+265. le jus - juice
+266. le lait - milk
+267. le soda - soda
+268. la bière - beer
+269. le vin - wine
+270. le vin rouge - red wine
+271. le vin blanc - white wine
+272. le champagne - champagne
+273. le cocktail - cocktail
+274. la liqueur - liqueur
+275. le whisky - whiskey
+276. le rhum - rum
+277. la vodka - vodka
+278. le cognac - cognac
+279. le pastis - pastis (anise-flavored spirit)
+280. le cidre - cider
+281. la limonade - lemonade
+282. le chocolat chaud - hot chocolate
+283. l'espresso (m) - espresso
+284. le cappuccino - cappuccino
+285. le café au lait - coffee with milk
+286. le café noir - black coffee
+287. l'infusion (f) - herbal tea
+288. la camomille - chamomile tea
+289. le thé vert - green tea
+290. le thé noir - black tea
+291. l'apéritif (m) - aperitif
+292. le digestif - digestif
+293. la boisson - drink
+294. la boisson gazeuse - carbonated drink
+295. la bouteille - bottle
+296. le verre - glass
+297. la carafe - carafe
+298. le pichet - pitcher
+299. la tasse - cup
+300. le kir - kir (white wine with blackcurrant liqueur)
+301. le kir royal - kir royal (champagne with blackcurrant liqueur)
+
+## Cooking Terms (Termes de Cuisine)
+
+302. cuisiner - to cook
+303. bouillir - to boil
+304. frire - to fry
+305. rôtir - to roast
+306. cuire au four - to bake
+307. cuire à la vapeur - to steam
+308. faire sauter - to sauté
+309. fouetter - to whisk
+310. mélanger - to mix
+311. couper - to cut
+312. hacher - to chop
+313. éplucher - to peel
+314. râper - to grate
+315. moudre - to grind
+316. mariner - to marinate
+317. assaisonner - to season
+318. aromatiser - to flavor
+319. fondre - to melt
+320. chauffer - to heat
+321. refroidir - to cool
+322. congeler - to freeze
+323. décongeler - to defrost/thaw
+324. servir - to serve
+325. goûter - to taste
+326. mijoter - to simmer
+327. flamber - to flambé
+328. pocher - to poach
+329. gratiner - to broil/brown
+330. blanchir - to blanch
+331. braiser - to braise
+332. paner - to bread
+333. pétrir - to knead
+334. fermenter - to ferment
+335. cuit - cooked
+336. cru - raw
+337. frit - fried
+338. rôti - roasted
+339. cuit au four - baked
+340. bouilli - boiled
+341. al dente - al dente
+342. la poêle - frying pan
+343. la casserole - saucepan
+344. la marmite - pot
+345. le four - oven
+346. le micro-ondes - microwave
+347. le mixeur - blender
+348. le batteur - mixer
+349. le couteau - knife
+350. la fourchette - fork
+351. la cuillère - spoon
+352. la spatule - spatula
+353. la passoire - strainer/colander
+354. la planche à découper - cutting board
+
+## Restaurant and Dining (Restaurant et Repas)
+
+355. le restaurant - restaurant
+356. le menu - menu
+357. la carte - menu (à la carte)
+358. le serveur/la serveuse - waiter/waitress
+359. le chef - chef
+360. le pourboire - tip
+361. l'addition (f) - bill/check
+362. la réservation - reservation
+363. l'entrée (f) - starter/appetizer
+364. le plat principal - main course
+365. la spécialité - specialty
+366. la table - table
+367. la chaise - chair
+368. la nappe - tablecloth
+369. la serviette - napkin
+370. le verre - glass
+371. le verre à vin - wine glass
+372. la tasse - cup
+373. l'assiette (f) - plate
+374. le bol - bowl
+375. les couverts (m) - cutlery
+376. le couteau - knife
+377. la fourchette - fork
+378. la cuillère - spoon
+379. la cuillère à café - teaspoon
+380. le menu du jour - daily special
+381. le buffet - buffet
+382. à emporter - takeout/to go
+383. le bar - bar
+384. le café - café
+385. la terrasse - outdoor seating area
+386. la salle à manger - dining room
+387. le petit-déjeuner - breakfast
+388. le déjeuner - lunch
+389. le dîner - dinner
+390. le goûter - snack/afternoon tea
+391. le brunch - brunch
+392. l'apéritif (m) - aperitif
+393. l'entrée (f) - starter
+394. la garniture - garnish
+395. l'accompagnement (m) - side dish
+396. le dessert - dessert
+397. le fromage - cheese (as a course)
+398. le café - coffee (after meal)
+399. le digestif - digestif
+400. le service - service
+401. le service compris - service included
+402. la dégustation - tasting
+
+## Diet and Nutrition (Régime et Nutrition)
+
+403. le régime - diet
+404. la nutrition - nutrition
+405. la calorie - calorie
+406. la protéine - protein
+407. le glucide/hydrate de carbone - carbohydrate
+408. la graisse - fat
+409. la fibre - fiber
+410. la vitamine - vitamin
+411. le minéral - mineral
+412. végétarien - vegetarian
+413. végétalien/vegan - vegan
+414. sans gluten - gluten-free
+415. sans lactose - lactose-free
+416. bio/biologique - organic
+417. naturel - natural
+418. sain - healthy
+419. faible en calories - low-calorie
+420. faible en gras - low-fat
+421. faible en sucre - low-sugar
+422. faible en sel - low-salt
+423. riche en protéines - high-protein
+424. l'allergie (f) - allergy
+425. l'intolérance (f) - intolerance
+426. le jeûne - fasting
+427. la digestion - digestion
+428. le métabolisme - metabolism
+429. l'équilibre alimentaire (m) - balanced diet
+
+## Traditional French Dishes (Plats Français Traditionnels)
+
+430. le coq au vin - chicken in wine sauce
+431. le bœuf bourguignon - beef burgundy
+432. la ratatouille - ratatouille
+433. la quiche lorraine - quiche lorraine
+434. le cassoulet - cassoulet
+435. la bouillabaisse - bouillabaisse (fish stew)
+436. le pot-au-feu - pot-au-feu (beef stew)
+437. la blanquette de veau - veal blanquette
+438. le confit de canard - duck confit
+439. la soupe à l'oignon - French onion soup
+440. le gratin dauphinois - potato gratin
+441. la choucroute - sauerkraut dish
+442. la salade niçoise - Niçoise salad
+443. les escargots - snails
+444. la sole meunière - sole meunière
+445. le steak tartare - steak tartare
+446. les crêpes - crepes
+447. le soufflé - soufflé
+448. la tarte tatin - tarte tatin
+449. le croque-monsieur - croque-monsieur
+450. le croque-madame - croque-madame
+451. la raclette - raclette
+452. la fondue - fondue
+453. le foie gras - foie gras
+454. les cuisses de grenouille - frog legs
+455. la tartiflette - tartiflette
+456. la tapenade - tapenade
+457. l'aïoli (m) - aioli
+458. le pissaladière - pissaladière (onion tart)
+459. le gougère - cheese puff
+460. le hachis parmentier - shepherd's pie
+
+## Desserts and Sweets (Desserts et Sucreries)
+
+461. le dessert - dessert
+462. le gâteau - cake
+463. le chocolat - chocolate
+464. la glace - ice cream
+465. le sorbet - sorbet
+466. la crème brûlée - crème brûlée
+467. la mousse au chocolat - chocolate mousse
+468. le pain perdu - French toast
+469. la tarte aux pommes - apple tart
+470. la tarte au citron - lemon tart
+471. le profiterole - profiterole
+472. le paris-brest - Paris-Brest (pastry)
+473. l'opéra (m) - opera cake
+474. le clafoutis - clafoutis
+475. le macaron - macaron
+476. la crème caramel - crème caramel
+477. la charlotte - charlotte
+478. le baba au rhum - rum baba
+479. la religieuse - religieuse (pastry)
+480. la madeleine - madeleine
+481. le financier - financier
+482. le nougat - nougat
+483. la praline - praline
+484. la ganache - ganache
+485. la meringue - meringue
+486. la guimauve - marshmallow
+487. le caramel - caramel
+488. le bonbon - candy
+489. la confiserie - confectionery
+490. le petit four - petit four
+491. la pâte de fruit - fruit paste
+492. la crêpe Suzette - crêpe Suzette
+
+## Food Descriptors (Descripteurs Alimentaires)
+
+493. délicieux - delicious
+494. savoureux - tasty/flavorful
+495. succulent - succulent
+496. sucré - sweet
+497. salé - salty
+498. acide - sour
+499. amer - bitter
+500. épicé - spicy

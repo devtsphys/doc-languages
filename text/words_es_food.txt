@@ -1,0 +1,558 @@
+# Top Spanish Food and Dining Vocabulary with English Translations
+
+## Basic Food Terms
+
+1. la comida - food
+2. el desayuno - breakfast
+3. el almuerzo - lunch
+4. la cena - dinner
+5. la merienda - snack/afternoon tea
+6. el aperitivo - appetizer
+7. el postre - dessert
+8. el plato - plate/dish
+9. la bebida - drink
+10. la receta - recipe
+
+## Fruits (Las Frutas)
+
+11. la manzana - apple
+12. el plátano/la banana - banana
+13. la naranja - orange
+14. la fresa - strawberry
+15. el limón - lemon
+16. la lima - lime
+17. la piña - pineapple
+18. la uva - grape
+19. el melocotón/el durazno - peach
+20. la pera - pear
+21. la sandía - watermelon
+22. el melón - melon
+23. el kiwi - kiwi
+24. la cereza - cherry
+25. la frambuesa - raspberry
+26. el arándano - blueberry
+27. la mora - blackberry
+28. el mango - mango
+29. la granada - pomegranate
+30. el aguacate - avocado
+31. el coco - coconut
+32. la mandarina - tangerine
+33. el albaricoque - apricot
+34. la ciruela - plum
+35. la papaya - papaya
+36. el higo - fig
+37. la fruta - fruit
+
+## Vegetables (Las Verduras/Hortalizas)
+
+38. la zanahoria - carrot
+39. la patata/la papa - potato
+40. el tomate - tomato
+41. la cebolla - onion
+42. el ajo - garlic
+43. la lechuga - lettuce
+44. el pepino - cucumber
+45. el pimiento - bell pepper
+46. el maíz - corn
+47. la calabaza - pumpkin/squash
+48. el calabacín - zucchini
+49. la berenjena - eggplant
+50. la espinaca - spinach
+51. el brócoli - broccoli
+52. la coliflor - cauliflower
+53. la judía verde/ejote - green bean
+54. el champiñón - mushroom
+55. el guisante/chícharo - pea
+56. la remolacha - beet
+57. el repollo/col - cabbage
+58. la alcachofa - artichoke
+59. el espárrago - asparagus
+60. la cebolleta/cebolla verde - green onion
+61. el puerro - leek
+62. el apio - celery
+63. el rábano - radish
+64. la acelga - chard
+65. el jengibre - ginger
+66. la zanahoria - carrot
+67. la verdura - vegetable
+
+## Meat and Poultry (Carne y Aves)
+
+68. la carne - meat
+69. el pollo - chicken
+70. la ternera/res - beef
+71. el cerdo - pork
+72. el cordero - lamb
+73. el jamón - ham
+74. el tocino/bacon - bacon
+75. la salchicha - sausage
+76. el filete - steak
+77. la chuleta - chop
+78. el pavo - turkey
+79. el pato - duck
+80. la carne molida/picada - ground meat
+81. el bistec - steak
+82. el lomo - tenderloin
+83. la costilla - rib
+84. el chorizo - chorizo sausage
+85. el jamón serrano - cured ham
+86. el jamón de york - cooked ham
+87. el conejo - rabbit
+88. la pechuga - breast (meat)
+89. el muslo - thigh
+90. el ala - wing
+91. el hígado - liver
+92. la tripa - tripe
+
+## Seafood (Mariscos y Pescados)
+
+93. el pescado - fish
+94. el marisco - seafood
+95. el atún - tuna
+96. el salmón - salmon
+97. la merluza - hake
+98. el bacalao - cod
+99. la dorada - sea bream
+100. la lubina - sea bass
+101. el lenguado - sole
+102. la trucha - trout
+103. la sardina - sardine
+104. el boquerón/anchoa - anchovy
+105. el camarón/gamba - shrimp
+106. la langosta - lobster
+107. el cangrejo - crab
+108. el pulpo - octopus
+109. el calamar - squid
+110. la vieira - scallop
+111. el mejillón - mussel
+112. la almeja - clam
+113. la ostra - oyster
+
+## Dairy Products (Lácteos)
+
+114. la leche - milk
+115. el queso - cheese
+116. el yogur - yogurt
+117. la mantequilla - butter
+118. la nata/crema - cream
+119. el huevo - egg
+120. el queso fresco - fresh cheese
+121. el queso curado - aged cheese
+122. el queso manchego - Manchego cheese
+123. el queso de cabra - goat cheese
+124. la clara - egg white
+125. la yema - egg yolk
+126. el requesón - cottage cheese
+127. la cuajada - curdled milk
+
+## Grains and Legumes (Granos y Legumbres)
+
+128. el arroz - rice
+129. la pasta - pasta
+130. el pan - bread
+131. la harina - flour
+132. el trigo - wheat
+133. el maíz - corn
+134. la avena - oats
+135. el frijol/la judía - bean
+136. la lenteja - lentil
+137. el garbanzo - chickpea
+138. el guisante - pea
+139. la soja/soya - soy
+140. la quinoa - quinoa
+141. el centeno - rye
+142. la cebada - barley
+143. el mijo - millet
+144. la espelta - spelt
+145. el bulgur - bulgur
+146. el cuscús - couscous
+
+## Bread and Pastries (Pan y Bollería)
+
+147. el pan - bread
+148. la barra/el baguette - baguette 
+149. el pan integral - whole wheat bread
+150. el pan de molde - sliced bread
+151. la tostada - toast
+152. el bollo - roll
+153. el cruasán - croissant
+154. el panecillo - bread roll
+155. la magdalena - muffin
+156. el pastel - cake
+157. la tarta - cake/pie
+158. la galleta - cookie/biscuit
+159. el bizcocho - sponge cake
+160. el churro - churro
+161. la empanada - empanada/turnover
+162. el donut/la rosquilla - doughnut
+163. el pretzel - pretzel
+164. la masa - dough
+
+## Condiments and Spices (Condimentos y Especias)
+
+165. la sal - salt
+166. la pimienta - pepper
+167. el azúcar - sugar
+168. el aceite - oil
+169. el aceite de oliva - olive oil
+170. el vinagre - vinegar
+171. la salsa - sauce
+172. la mayonesa - mayonnaise
+173. la mostaza - mustard
+174. el kétchup - ketchup
+175. la salsa de tomate - tomato sauce
+176. la salsa de soja - soy sauce
+177. el ají/chile - chili
+178. el orégano - oregano
+179. el perejil - parsley
+180. el cilantro/culantro - coriander/cilantro
+181. el tomillo - thyme
+182. el romero - rosemary
+183. la albahaca - basil
+184. la canela - cinnamon
+185. el comino - cumin
+186. el jengibre - ginger
+187. la nuez moscada - nutmeg
+188. el azafrán - saffron
+189. la vainilla - vanilla
+190. la miel - honey
+191. la mermelada - jam
+192. el jarabe - syrup
+193. la manteca - lard
+194. la margarina - margarine
+195. el aderezo - dressing
+196. el aliño - dressing
+197. el condimento - condiment
+198. la especia - spice
+199. la pimienta negra - black pepper
+200. la pimienta blanca - white pepper
+
+## Nuts and Seeds (Frutos Secos y Semillas)
+
+201. la nuez - walnut
+202. la almendra - almond
+203. el cacahuete/maní - peanut
+204. el pistacho - pistachio
+205. la avellana - hazelnut
+206. la castaña - chestnut
+207. la semilla - seed
+208. la semilla de girasol - sunflower seed
+209. la semilla de calabaza - pumpkin seed
+210. la semilla de chía - chia seed
+211. la semilla de lino - flaxseed
+212. la semilla de sésamo - sesame seed
+213. la pasa - raisin
+214. el dátil - date
+215. el piñón - pine nut
+216. el anacardo - cashew
+217. el coco - coconut
+218. la nuez de Brasil - Brazil nut
+
+## Beverages (Bebidas)
+
+219. el agua - water
+220. el café - coffee
+221. el té - tea
+222. el jugo/zumo - juice
+223. la leche - milk
+224. el refresco/la gaseosa - soda
+225. la cerveza - beer
+226. el vino - wine
+227. el vino tinto - red wine
+228. el vino blanco - white wine
+229. el champán/cava - champagne
+230. el cóctel - cocktail
+231. el licor - liquor
+232. el whisky - whiskey
+233. el ron - rum
+234. el vodka - vodka
+235. el tequila - tequila
+236. la sangría - sangria
+237. la limonada - lemonade
+238. el batido - milkshake/smoothie
+239. el chocolate caliente - hot chocolate
+240. el espresso - espresso
+241. el capuchino - cappuccino
+242. el café con leche - coffee with milk
+243. el cortado - espresso with a dash of milk
+244. la infusión - herbal tea
+245. la manzanilla - chamomile tea
+246. el té verde - green tea
+247. el té negro - black tea
+248. la sidra - cider
+249. el vermut - vermouth
+
+## Cooking Terms (Términos de Cocina)
+
+250. cocinar - to cook
+251. hervir - to boil
+252. freír - to fry
+253. asar - to roast/grill
+254. hornear - to bake
+255. cocer al vapor - to steam
+256. saltear - to sauté
+257. batir - to beat/whisk
+258. mezclar - to mix
+259. cortar - to cut
+260. picar - to chop
+261. pelar - to peel
+262. rallar - to grate
+263. moler - to grind
+264. marinar - to marinate
+265. sazonar - to season
+266. condimentar - to flavor/season
+267. derretir - to melt
+268. calentar - to heat
+269. enfriar - to cool
+270. congelar - to freeze
+271. descongelar - to defrost/thaw
+272. servir - to serve
+273. probar - to taste
+274. la receta - recipe
+275. el ingrediente - ingredient
+276. la porción - portion/serving
+277. la cocción - cooking
+278. crudo - raw
+279. cocido - cooked
+280. frito - fried
+281. asado - roasted/grilled
+282. horneado - baked
+283. hervido - boiled
+284. al dente - al dente
+285. la sartén - frying pan
+286. la olla - pot
+287. la cazuela - casserole dish
+288. el horno - oven
+289. el microondas - microwave
+290. la licuadora - blender
+291. la batidora - mixer
+292. el cuchillo - knife
+293. el tenedor - fork
+294. la cuchara - spoon
+295. la espátula - spatula
+296. el colador - strainer
+297. la tabla de cortar - cutting board
+
+## Restaurant and Dining (Restaurante y Comedor)
+
+298. el restaurante - restaurant
+299. el menú - menu
+300. la carta - menu (à la carte)
+301. el camarero/la camarera - waiter/waitress
+302. el chef/cocinero - chef/cook
+303. la propina - tip
+304. la cuenta - bill/check
+305. la reserva - reservation
+306. el primer plato - first course
+307. el segundo plato - main course
+308. el plato principal - main dish
+309. la especialidad - specialty
+310. la mesa - table
+311. la silla - chair
+312. el mantel - tablecloth
+313. la servilleta - napkin
+314. el vaso - glass
+315. la copa - wine glass
+316. la taza - cup
+317. el plato - plate
+318. el tazón - bowl
+319. los cubiertos - cutlery
+320. el cuchillo - knife
+321. el tenedor - fork
+322. la cuchara - spoon
+323. la cucharilla - teaspoon
+324. el menú del día - daily special
+325. el bufé/buffet - buffet
+326. para llevar - takeout/to go
+327. el bar - bar
+328. la cafetería - café
+329. la terraza - outdoor seating area
+330. el comedor - dining room
+331. el desayuno - breakfast
+332. el almuerzo - lunch
+333. la cena - dinner
+334. la merienda - snack/afternoon tea
+335. el brunch - brunch
+336. el aperitivo - appetizer
+337. el entrante - starter
+338. la guarnición - side dish
+339. la entrada - appetizer/starter
+340. el plato fuerte - main course
+341. el acompañamiento - side dish
+342. el postre - dessert
+
+## Diet and Nutrition (Dieta y Nutrición)
+
+343. la dieta - diet
+344. la nutrición - nutrition
+345. la caloría - calorie
+346. la proteína - protein
+347. el carbohidrato - carbohydrate
+348. la grasa - fat
+349. la fibra - fiber
+350. la vitamina - vitamin
+351. el mineral - mineral
+352. vegetariano - vegetarian
+353. vegano - vegan
+354. sin gluten - gluten-free
+355. sin lactosa - lactose-free
+356. orgánico/ecológico - organic
+357. natural - natural
+358. saludable - healthy
+359. bajo en calorías - low-calorie
+360. bajo en grasa - low-fat
+361. bajo en azúcar - low-sugar
+362. bajo en sal - low-salt
+363. alto en proteínas - high-protein
+364. la alergia - allergy
+365. la intolerancia - intolerance
+366. la nutrición - nutrition
+367. el ayuno - fasting
+368. la digestión - digestion
+369. el metabolismo - metabolism
+
+## Traditional Spanish Dishes (Platos Españoles Tradicionales)
+
+370. la paella - paella
+371. la tortilla española - Spanish omelette
+372. el gazpacho - gazpacho
+373. las tapas - tapas
+374. la sangría - sangria
+375. el jamón ibérico - Iberian ham
+376. el pulpo a la gallega - Galician-style octopus
+377. la fabada - bean stew
+378. el cocido madrileño - Madrid stew
+379. las croquetas - croquettes
+380. la pinchos - skewers/pintxos
+381. el chorizo - chorizo
+382. la morcilla - blood sausage
+383. las albóndigas - meatballs
+384. las migas - bread crumbs dish
+385. el salmorejo - cold tomato soup
+386. la ensaladilla rusa - Russian salad
+387. los calamares a la romana - fried squid rings
+388. el alioli - garlic mayonnaise
+389. la escalivada - roasted vegetables
+390. los churros con chocolate - churros with chocolate
+
+## Latin American Dishes (Platos Latinoamericanos)
+
+391. los tacos - tacos
+392. las enchiladas - enchiladas
+393. los burritos - burritos
+394. el guacamole - guacamole
+395. la salsa - salsa
+396. los frijoles - beans
+397. el arroz con frijoles - rice and beans
+398. el ceviche - ceviche
+399. las arepas - arepas
+400. las empanadas - empanadas
+401. los tamales - tamales
+402. el mole - mole sauce
+403. la tortilla (de maíz/harina) - corn/flour tortilla
+404. el chili con carne - chili con carne
+405. las pupusas - pupusas
+406. el asado - barbecue
+407. las tostadas - tostadas
+408. los nachos - nachos
+409. las quesadillas - quesadillas
+410. el chimichurri - chimichurri sauce
+
+## Desserts and Sweets (Postres y Dulces)
+
+411. el postre - dessert
+412. el pastel/la tarta - cake
+413. el chocolate - chocolate
+414. el helado - ice cream
+415. el flan - crème caramel/flan
+416. las natillas - custard
+417. el arroz con leche - rice pudding
+418. la tarta de queso - cheesecake
+419. la tarta de manzana - apple pie
+420. el bizcocho - sponge cake
+421. las galletas - cookies/biscuits
+422. los churros - churros
+423. el pudín - pudding
+424. el mousse - mousse
+425. la crema catalana - Catalan cream
+426. el turrón - nougat
+427. el mazapán - marzipan
+428. las trufas - truffles
+429. el caramelo - caramel
+430. los bombones - chocolates
+431. el dulce de leche - milk caramel
+432. el merengue - meringue
+433. la gelatina - jelly/gelatin
+434. el sorbete - sorbet
+435. la crema - cream
+436. la crema batida - whipped cream
+437. el barquillo - wafer
+438. el polvorón - shortbread
+439. el mantecado - traditional Spanish cookie
+440. los buñuelos - fritters
+
+## Food Descriptors (Descriptores de Comida)
+
+441. delicioso - delicious
+442. sabroso - tasty
+443. rico - rich/delicious
+444. dulce - sweet
+445. salado - salty
+446. ácido - sour
+447. amargo - bitter
+448. picante - spicy
+449. suave - mild/soft
+450. fuerte - strong
+451. fresco - fresh
+452. caliente - hot (temperature)
+453. frío - cold
+454. tibio - warm
+455. congelado - frozen
+456. jugoso - juicy
+457. seco - dry
+458. crujiente - crunchy/crispy
+459. blando - soft
+460. duro - hard
+461. tierno - tender
+462. maduro - ripe
+463. verde - unripe
+464. pasado - overripe
+465. cocido - cooked
+466. crudo - raw
+467. al punto - medium (for meat)
+468. poco hecho - rare (for meat)
+469. muy hecho - well done (for meat)
+470. casero - homemade
+471. artesanal - artisanal
+472. típico - typical
+473. tradicional - traditional
+474. gourmet - gourmet
+475. exótico - exotic
+476. local - local
+477. importado - imported
+478. de temporada - seasonal
+479. orgánico - organic
+480. procesado - processed
+
+## Additional Important Terms (Términos Adicionales Importantes)
+
+481. el hambre - hunger
+482. la sed - thirst
+483. el sabor - flavor/taste
+484. el olor - smell
+485. el aroma - aroma
+486. el apetito - appetite
+487. el gusto - taste
+488. la dieta - diet
+489. el alimento - food/nourishment
+490. la comida rápida - fast food
+491. el ingrediente secreto - secret ingredient
+492. la receta familiar - family recipe
+493. la cocina casera - home cooking
+494. la cocina tradicional - traditional cuisine
+495. la cocina internacional - international cuisine
+496. la cocina fusión - fusion cuisine
+497. la cocina vegetariana - vegetarian cuisine
+498. la cocina vegana - vegan cuisine
+499. la gastronomía - gastronomy
+500. el buen provecho/que aproveche - enjoy your meal

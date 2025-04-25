@@ -1,0 +1,545 @@
+# Top French Words for Family and Relationships (with English translations)
+
+## Immediate Family
+1. famille - family
+2. père - father
+3. mère - mother
+4. papa - dad
+5. maman - mom
+6. parents - parents
+7. fils - son
+8. fille - daughter
+9. enfant - child
+10. enfants - children
+11. frère - brother
+12. sœur - sister
+13. grand-père - grandfather
+14. grand-mère - grandmother
+15. grands-parents - grandparents
+16. petit-fils - grandson
+17. petite-fille - granddaughter
+18. petits-enfants - grandchildren
+19. bébé - baby
+20. jumeaux - twins
+
+## Extended Family
+21. oncle - uncle
+22. tante - aunt
+23. cousin - male cousin
+24. cousine - female cousin
+25. neveu - nephew
+26. nièce - niece
+27. beau-frère - brother-in-law
+28. belle-sœur - sister-in-law
+29. beau-père - father-in-law/stepfather
+30. belle-mère - mother-in-law/stepmother
+31. beaux-parents - in-laws/stepparents
+32. gendre - son-in-law
+33. bru - daughter-in-law
+34. arrière-grand-père - great-grandfather
+35. arrière-grand-mère - great-grandmother
+36. arrière-petit-fils - great-grandson
+37. arrière-petite-fille - great-granddaughter
+38. ancêtres - ancestors
+39. descendants - descendants
+40. parent - relative
+41. parenté - relatives/kinship
+42. lignée - lineage
+43. génération - generation
+44. aîné - elder/eldest
+45. cadet - younger sibling
+46. demi-frère - half-brother
+47. demi-sœur - half-sister
+48. adopté - adopted
+49. filleul - godson
+50. filleule - goddaughter
+
+## Marriage & Partnerships
+51. mari - husband
+52. femme - wife (also: woman)
+53. époux - husband/spouse
+54. épouse - wife
+55. conjoint - spouse (masculine)
+56. conjointe - spouse (feminine)
+57. mariage - marriage
+58. noces - wedding
+59. couple - couple
+60. partenaire - partner
+61. petit ami - boyfriend
+62. petite amie - girlfriend
+63. fiancé - fiancé
+64. fiancée - fiancée
+65. fiançailles - engagement
+66. alliance - wedding ring
+67. bague - ring
+68. marié - married (masculine)
+69. mariée - married (feminine)/bride
+70. célibataire - single
+71. divorcé - divorced (masculine)
+72. divorcée - divorced (feminine)
+73. veuf - widower
+74. veuve - widow
+75. séparé - separated (masculine)
+76. séparée - separated (feminine)
+77. amant - lover (masculine)
+78. amante - lover (feminine)
+79. compagnon - partner/companion (masculine)
+80. compagne - partner/companion (feminine)
+
+## Love & Emotions
+81. amour - love
+82. affection - affection
+83. passion - passion
+84. désir - desire
+85. attraction - attraction
+86. amoureux - in love (masculine)
+87. amoureuse - in love (feminine)
+88. romance - romance
+89. romantique - romantic
+90. cœur - heart
+91. sentiment - feeling
+92. émotion - emotion
+93. tendresse - tenderness
+94. intimité - intimacy
+95. admiration - admiration
+96. respect - respect
+97. confiance - trust
+98. honnêteté - honesty
+99. fidélité - fidelity
+100. infidélité - infidelity
+101. jalousie - jealousy
+102. dispute - argument
+103. réconciliation - reconciliation
+104. pardon - forgiveness
+105. complicité - complicity/intimacy
+
+## Terms of Endearment
+106. mon amour - my love
+107. chéri - darling (masculine)
+108. chérie - darling (feminine)
+109. mon cœur - my heart
+110. trésor - treasure
+111. mon ange - my angel
+112. ma vie - my life
+113. mon petit - my little one (masculine)
+114. ma petite - my little one (feminine)
+115. doudou - sweetie
+116. mon bébé - my baby
+117. mon chou - my cabbage (term of endearment)
+118. ma puce - my flea (term of endearment)
+119. mon lapin - my rabbit (term of endearment)
+120. ma chérie - my darling (feminine)
+121. mon chéri - my darling (masculine)
+122. mon prince - my prince
+123. ma princesse - my princess
+124. mon loup - my wolf (term of endearment)
+125. ma douce - my sweet one (feminine)
+
+## Family Events & Celebrations
+126. anniversaire - birthday
+127. anniversaire de mariage - wedding anniversary
+128. baptême - baptism
+129. communion - communion
+130. confirmation - confirmation
+131. remise de diplôme - graduation
+132. obsèques - funeral
+133. réunion de famille - family gathering
+134. fête - party/celebration
+135. célébration - celebration
+136. tradition - tradition
+137. héritage - heritage/inheritance
+138. cadeau - gift
+139. surprise - surprise
+140. félicitations - congratulations
+141. invitation - invitation
+142. souvenir - memory/keepsake
+143. photo - photo
+144. album - album
+145. vidéo - video
+
+## Family Roles & Dynamics
+146. chef de famille - head of family
+147. femme au foyer - housewife
+148. soutien de famille - breadwinner
+149. responsabilité - responsibility
+150. obligation - obligation
+151. sacrifice - sacrifice
+152. protection - protection
+153. éducation - education/upbringing
+154. discipline - discipline
+155. règles - rules
+156. valeurs - values
+157. coutumes - customs
+158. habitudes - habits
+159. routine - routine
+160. patrimoine - heritage/legacy
+161. nom de famille - family name/surname
+162. généalogie - genealogy
+163. arbre généalogique - family tree
+164. branche - branch (of family)
+165. relation - relationship
+
+## Communication & Interaction
+166. conversation - conversation
+167. discussion - discussion
+168. dialogue - dialogue
+169. débat - debate
+170. conseil - advice
+171. soutien - support
+172. aide - help
+173. compréhension - understanding
+174. malentendu - misunderstanding
+175. confusion - confusion
+176. accord - agreement
+177. désaccord - disagreement
+178. secret - secret
+179. confidence - confidence/secret
+180. message - message
+181. appel - call
+182. visite - visit
+183. réunion - meeting/gathering
+184. contact - contact
+185. communication - communication
+
+## Pregnancy & Childhood
+186. grossesse - pregnancy
+187. enceinte - pregnant
+188. accouchement - childbirth
+189. naissance - birth
+190. nouveau-né - newborn
+191. allaitement - breastfeeding
+192. couche - diaper
+193. berceau - cradle
+194. biberon - baby bottle
+195. tétine - pacifier
+196. jouet - toy
+197. crèche - daycare
+198. nounou - nanny
+199. enfance - childhood
+200. adolescence - adolescence
+201. jeunesse - youth
+202. maturité - maturity
+203. vieillesse - old age
+204. croissance - growth
+205. développement - development
+
+## Home & Living Together
+206. foyer - home
+207. maison - house
+208. logement - dwelling
+209. toit - roof (also metaphorical)
+210. chambre - bedroom
+211. lit - bed
+212. cuisine - kitchen
+213. salle à manger - dining room
+214. salon - living room
+215. salle de bain - bathroom
+216. jardin - garden
+217. terrasse - terrace
+218. garage - garage
+219. voisin - neighbor (masculine)
+220. voisine - neighbor (feminine)
+221. quartier - neighborhood
+222. communauté - community
+223. cohabitation - cohabitation
+224. partage - sharing
+225. collaboration - collaboration
+
+## Conflict & Resolution
+226. problème - problem
+227. conflit - conflict
+228. crise - crisis
+229. tension - tension
+230. stress - stress
+231. inquiétude - worry
+232. angoisse - anguish
+233. frustration - frustration
+234. colère - anger
+235. fureur - fury
+236. rage - rage
+237. dispute - argument
+238. combat - fight
+239. désaccord - disagreement
+240. malentendu - misunderstanding
+241. réconciliation - reconciliation
+242. pardon - forgiveness
+243. excuse - apology
+244. solution - solution
+245. compromis - compromise
+246. médiation - mediation
+247. conseil conjugal - marriage counseling
+248. thérapie - therapy
+249. patience - patience
+250. tolérance - tolerance
+
+## Care & Support
+251. soin - care
+252. attention - attention
+253. soutien - support
+254. aide - help
+255. assistance - assistance
+256. protection - protection
+257. refuge - shelter/refuge
+258. sécurité - security
+259. bien-être - well-being
+260. santé - health
+261. maladie - illness
+262. médicament - medicine
+263. traitement - treatment
+264. hôpital - hospital
+265. clinique - clinic
+266. médecin - doctor
+267. infirmière - nurse
+268. soignant - caregiver (masculine)
+269. soignante - caregiver (feminine)
+270. vieillesse - old age
+271. retraite - retirement
+272. pension - pension
+273. épargne - savings
+274. héritage - inheritance
+275. testament - will/testament
+
+## Life Transitions
+276. naissance - birth
+277. croissance - growth
+278. maturité - maturity
+279. vieillissement - aging
+280. mort - death
+281. deuil - mourning/grief
+282. souvenir - memory
+283. mémoire - memory
+284. héritage - legacy
+285. changement - change
+286. transition - transition
+287. adaptation - adaptation
+288. déménagement - moving (house)
+289. transfert - transfer
+290. migration - migration
+291. séparation - separation
+292. retrouvailles - reunion
+293. retour - return
+294. accueil - welcome
+295. intégration - integration
+
+## Family Activities
+296. repas - meal
+297. dîner - dinner
+298. déjeuner - lunch
+299. petit-déjeuner - breakfast
+300. goûter - snack
+301. conversation - conversation
+302. discussion - discussion
+303. débat - debate
+304. réunion - meeting/gathering
+305. fête - party
+306. célébration - celebration
+307. vacances - vacation/holidays
+308. voyage - trip
+309. excursion - excursion
+310. promenade - walk
+311. visite - visit
+312. jeu - game
+313. sport - sport
+314. exercice - exercise
+315. activité - activity
+316. temps libre - free time
+317. loisir - leisure
+318. divertissement - entertainment
+319. télévision - television
+320. film - movie
+
+## Economic Aspects
+321. argent - money
+322. finances - finances
+323. économie - economy
+324. budget - budget
+325. revenu - income
+326. salaire - salary
+327. dépense - expense
+328. épargne - saving
+329. investissement - investment
+330. dette - debt
+331. emprunt - loan
+332. hypothèque - mortgage
+333. loyer - rent
+334. compte - account
+335. carte - card
+336. banque - bank
+337. assurance - insurance
+338. impôt - tax
+339. facture - bill
+340. achat - purchase
+
+## Education & Development
+341. éducation - education
+342. école - school
+343. collège - middle school
+344. lycée - high school
+345. université - university
+346. classe - class
+347. cours - course
+348. étude - study
+349. devoir - homework
+350. examen - exam
+351. note - grade
+352. diplôme - diploma
+353. titre - title/degree
+354. remise de diplôme - graduation
+355. carrière - career
+356. profession - profession
+357. travail - work
+358. emploi - employment
+359. camarade de classe - classmate
+360. professeur - teacher
+
+## Descriptive Family Terms
+361. nucléaire - nuclear (family)
+362. élargie - extended (family)
+363. nombreuse - large (family)
+364. petite - small (family)
+365. traditionnelle - traditional
+366. moderne - modern
+367. adoptive - adoptive
+368. biologique - biological
+369. par alliance - in-law
+370. proche - close
+371. éloignée - distant
+372. unie - united/close-knit
+373. problématique - problematic
+374. dysfonctionnelle - dysfunctional
+375. fonctionnelle - functional
+376. heureuse - happy
+377. triste - sad
+378. en colère - angry
+379. paisible - peaceful
+380. bruyante - noisy
+
+## Legal & Social Terms
+381. adoption - adoption
+382. garde - custody
+383. tutelle - guardianship
+384. autorité parentale - parental authority
+385. pension alimentaire - child support/alimony
+386. droit de visite - visitation rights
+387. patrimoine - assets
+388. héritage - inheritance
+389. testament - will/testament
+390. acte de naissance - birth certificate
+391. document - document
+392. certificat - certificate
+393. identification - identification
+394. état civil - civil status
+395. juge - judge
+396. tribunal - court
+397. avocat - lawyer
+398. médiateur - mediator
+399. conseiller - advisor
+400. assistant social - social worker
+
+## Family Bonds & Qualities
+401. lien - bond
+402. attache - tie
+403. union - union
+404. proximité - closeness
+405. distance - distance
+406. loyauté - loyalty
+407. respect - respect
+408. confiance - trust
+409. honnêteté - honesty
+410. sincérité - sincerity
+411. compréhension - understanding
+412. tolérance - tolerance
+413. patience - patience
+414. responsabilité - responsibility
+415. engagement - commitment
+416. dévouement - devotion
+417. sacrifice - sacrifice
+418. générosité - generosity
+419. compassion - compassion
+420. empathie - empathy
+
+## Special Family Situations
+421. adoption - adoption
+422. accueil - fostering
+423. orphelin - orphan (masculine)
+424. orpheline - orphan (feminine)
+425. tutelle - guardianship
+426. tuteur - guardian (masculine)
+427. tutrice - guardian (feminine)
+428. dépendant - dependent
+429. charge de famille - family dependent
+430. fils unique - only son
+431. fille unique - only daughter
+432. famille monoparentale - single-parent family
+433. mère célibataire - single mother
+434. père célibataire - single father
+435. famille recomposée - blended family
+436. famille d'accueil - foster family
+437. famille adoptive - adoptive family
+438. famille nombreuse - large family
+439. famille modeste - modest family
+440. famille aisée - well-off family
+
+## Cultural & Religious Terms
+441. tradition - tradition
+442. coutume - custom
+443. culture - culture
+444. religion - religion
+445. foi - faith
+446. croyance - belief
+447. valeur - value
+448. morale - moral
+449. éthique - ethics
+450. cérémonie - ceremony
+451. rituel - ritual
+452. sacrement - sacrament
+453. bénédiction - blessing
+454. prière - prayer
+455. église - church
+456. temple - temple
+457. mosquée - mosque
+458. synagogue - synagogue
+459. communauté - community
+460. congrégation - congregation
+
+## Verbs Related to Family & Relationships
+461. aimer - to love
+462. chérir - to cherish
+463. soigner - to care for
+464. protéger - to protect
+465. soutenir - to support
+466. aider - to help
+467. élever - to raise
+468. éduquer - to educate
+469. enseigner - to teach
+470. apprendre - to learn
+471. grandir - to grow
+472. mûrir - to mature
+473. vieillir - to age
+474. naître - to be born
+475. mourir - to die
+476. vivre - to live
+477. partager - to share
+478. communiquer - to communicate
+479. comprendre - to understand
+480. écouter - to listen
+481. parler - to talk
+482. discuter - to discuss
+483. se disputer - to argue
+484. se réconcilier - to reconcile
+485. pardonner - to forgive
+486. s'excuser - to apologize
+487. remercier - to thank
+488. célébrer - to celebrate
+489. se réunir - to gather
+490. se séparer - to separate
+491. divorcer - to divorce
+492. marier - to marry
+493. fiancer - to engage
+494. connaître - to know/meet
+495. présenter - to introduce
+496. visiter - to visit
+497. appeler - to call
+498. écrire - to write
+499. se souvenir - to remember
+500. oublier - to forget

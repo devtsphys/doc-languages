@@ -1,0 +1,576 @@
+# Top French Travel & Transportation Vocabulary with English Translations
+
+## Basic Travel Terms
+
+1. voyage - journey/trip
+2. voyager - to travel
+3. voyageur/voyageuse - traveler
+4. tourisme - tourism
+5. touriste - tourist
+6. visite - visit
+7. visiter - to visit
+8. séjour - stay
+9. vacances - vacation/holiday
+10. destination - destination
+11. itinéraire - itinerary
+12. explorer - to explore
+13. découvrir - to discover
+14. aventure - adventure
+15. guide - guide
+16. excursion - excursion
+17. randonnée - hike
+18. balade - stroll/walk
+19. hébergement - accommodation
+20. logement - lodging
+
+## Transportation General
+
+21. transport - transportation
+22. transporter - to transport
+23. véhicule - vehicle
+24. moyen de transport - means of transportation
+25. public - public
+26. privé - private
+27. aller - to go
+28. partir - to leave/depart
+29. arriver - to arrive
+30. retourner - to return
+31. rester - to stay
+32. attendre - to wait
+33. monter - to get on/board
+34. descendre - to get off/alight
+35. s'arrêter - to stop
+36. continuer - to continue
+37. traverser - to cross
+38. suivre - to follow
+39. accompagner - to accompany
+40. escorter - to escort
+
+## Road Transportation
+
+41. voiture - car
+42. auto - car (informal)
+43. automobile - automobile
+44. conduire - to drive
+45. conducteur/conductrice - driver
+46. passager/passagère - passenger
+47. autoroute - highway/motorway
+48. route - road
+49. rue - street
+50. avenue - avenue
+51. boulevard - boulevard
+52. chemin - path/way
+53. carrefour - intersection
+54. rond-point - roundabout
+55. feu rouge - red light
+56. feu vert - green light
+57. feu - traffic light
+58. panneau - sign
+59. direction - direction
+60. sens unique - one-way
+
+## Car-Related Terms
+
+61. moteur - engine
+62. roue - wheel
+63. pneu - tire
+64. volant - steering wheel
+65. siège - seat
+66. ceinture de sécurité - seatbelt
+67. frein - brake
+68. accélérateur - accelerator
+69. embrayage - clutch
+70. vitesse - gear/speed
+71. boîte de vitesses - gearbox
+72. rétroviseur - rearview mirror
+73. pare-brise - windshield
+74. essuie-glace - windshield wiper
+75. phare - headlight
+76. clignotant - turn signal
+77. coffre - trunk
+78. capot - hood
+79. portière - car door
+80. clé - key
+
+## Fuel and Maintenance
+
+81. essence - gasoline
+82. diesel - diesel
+83. carburant - fuel
+84. station-service - gas station
+85. faire le plein - to fill up
+86. huile - oil
+87. pression - pressure
+88. réservoir - tank
+89. batterie - battery
+90. panne - breakdown
+91. crevaison - flat tire
+92. remorquer - to tow
+93. réparer - to repair
+94. garagiste - mechanic
+95. entretien - maintenance
+96. vidange - oil change
+97. lave-auto - car wash
+98. stationnement - parking
+99. se garer - to park
+100. parcmètre - parking meter
+
+## Public Transportation
+
+101. transport en commun - public transportation
+102. réseau - network
+103. ligne - line
+104. correspondance - connection/transfer
+105. arrêt - stop
+106. station - station
+107. quai - platform
+108. terminal - terminal
+109. guichet - ticket window
+110. billetterie - ticket office
+111. horaire - schedule/timetable
+112. tarif - fare/rate
+113. ticket - ticket
+114. billet - ticket
+115. carte - card/pass
+116. abonnement - subscription/pass
+117. valider - to validate
+118. composteur - ticket validator
+119. contrôleur - ticket inspector
+120. amende - fine
+
+## Bus and Tram
+
+121. autobus - bus
+122. bus - bus
+123. autocar - coach
+124. minibus - minibus
+125. navette - shuttle
+126. tramway - tram
+127. trolleybus - trolleybus
+128. chauffeur - driver
+129. conducteur - driver
+130. passager - passenger
+131. place - seat
+132. debout - standing
+133. assis - seated
+134. couloir - aisle
+135. arrêt de bus - bus stop
+136. arrêt à la demande - request stop
+137. terminus - terminus
+138. prochain arrêt - next stop
+139. descendre - to get off
+140. monter - to get on
+
+## Train Travel
+
+141. train - train
+142. TGV (Train à Grande Vitesse) - high-speed train
+143. RER - regional express network
+144. métro - subway/metro
+145. locomotive - locomotive
+146. wagon - carriage/car
+147. voiture - carriage/car
+148. compartiment - compartment
+149. place - seat
+150. siège - seat
+151. couloir - corridor
+152. fenêtre - window
+153. première classe - first class
+154. seconde classe - second class
+155. voiture-restaurant - dining car
+156. voiture-couchette - sleeping car
+157. contrôleur - ticket inspector
+158. chef de train - train manager
+159. gare - train station
+160. hall - concourse
+
+## Train Station
+
+161. gare - station
+162. quai - platform
+163. voie - track
+164. hall - concourse
+165. panneau d'affichage - information board
+166. tableau des départs - departure board
+167. tableau des arrivées - arrival board
+168. consigne - luggage locker
+169. salle d'attente - waiting room
+170. guichet - ticket window
+171. billetterie automatique - ticket machine
+172. composteur - ticket validator
+173. information - information
+174. renseignement - information
+175. chef de gare - station master
+176. annonce - announcement
+177. retard - delay
+178. suppression - cancellation
+179. correspondance - connection
+180. changement - change
+
+## Air Travel
+
+181. avion - airplane
+182. vol - flight
+183. ligne aérienne - airline
+184. compagnie aérienne - airline company
+185. aéroport - airport
+186. terminal - terminal
+187. aérogare - terminal building
+188. piste - runway
+189. décollage - takeoff
+190. atterrissage - landing
+191. embarquement - boarding
+192. débarquement - disembarking
+193. pilote - pilot
+194. copilote - copilot
+195. équipage - crew
+196. steward/hôtesse de l'air - flight attendant
+197. turbulence - turbulence
+198. escale - stopover
+199. correspondance - connection
+200. direct - direct
+
+## Airport
+
+201. aéroport - airport
+202. terminal - terminal
+203. porte - gate
+204. hall - concourse
+205. enregistrement - check-in
+206. comptoir - counter
+207. carte d'embarquement - boarding pass
+208. bagage - luggage
+209. bagage à main - hand luggage
+210. bagage en soute - checked luggage
+211. tapis roulant - moving walkway
+212. chariot - cart/trolley
+213. poids - weight
+214. excédent de bagages - excess baggage
+215. réclamation des bagages - baggage claim
+216. douane - customs
+217. immigration - immigration
+218. passeport - passport
+219. contrôle - checkpoint
+220. sécurité - security
+
+## Marine Transportation
+
+221. bateau - boat
+222. navire - ship
+223. ferry - ferry
+224. traversier - ferry
+225. croisière - cruise
+226. voilier - sailboat
+227. yacht - yacht
+228. péniche - barge
+229. port - port/harbor
+230. quai - dock/pier
+231. embarquement - boarding
+232. débarquement - disembarking
+233. capitaine - captain
+234. marin - sailor
+235. équipage - crew
+236. passager - passenger
+237. cabine - cabin
+238. pont - deck
+239. cale - hold
+240. proue - bow
+
+## Nautical Terms
+
+241. ancre - anchor
+242. voile - sail
+243. gouvernail - rudder
+244. coque - hull
+245. bord - board
+246. tribord - starboard
+247. bâbord - port side
+248. poupe - stern
+249. proue - bow
+250. phare - lighthouse
+251. balise - beacon
+252. bouée - buoy
+253. marée - tide
+254. vague - wave
+255. vent - wind
+256. tempête - storm
+257. navigation - navigation
+258. naviguer - to navigate
+259. accoster - to dock
+260. amarrer - to moor
+
+## Cycling and Motorcycling
+
+261. vélo - bicycle
+262. bicyclette - bicycle
+263. VTT (Vélo Tout Terrain) - mountain bike
+264. cycliste - cyclist
+265. guidon - handlebars
+266. pédale - pedal
+267. chaîne - chain
+268. frein - brake
+269. roue - wheel
+270. pneu - tire
+271. casque - helmet
+272. sonnette - bell
+273. pompe - pump
+274. antivol - lock
+275. moto - motorcycle
+276. motocyclette - motorcycle
+277. scooter - scooter
+278. motard - motorcyclist
+279. side-car - sidecar
+280. piste cyclable - bike path
+
+## Directions and Navigation
+
+281. nord - north
+282. sud - south
+283. est - east
+284. ouest - west
+285. droite - right
+286. gauche - left
+287. tout droit - straight ahead
+288. tourner - to turn
+289. continuer - to continue
+290. traverser - to cross
+291. passer - to pass
+292. suivre - to follow
+293. direction - direction
+294. sens - direction/way
+295. sortie - exit
+296. entrée - entrance
+297. carte - map
+298. plan - map/plan
+299. GPS - GPS
+300. boussole - compass
+
+## Location and Distance
+
+301. ici - here
+302. là - there
+303. là-bas - over there
+304. près - near
+305. loin - far
+306. proche - close
+307. éloigné - distant
+308. à côté de - next to
+309. en face de - across from
+310. devant - in front of
+311. derrière - behind
+312. entre - between
+313. au milieu - in the middle
+314. au bout - at the end
+315. au coin - at the corner
+316. carrefour - intersection
+317. distance - distance
+318. kilomètre - kilometer
+319. mètre - meter
+320. miles - miles
+
+## Traffic and Road Conditions
+
+321. circulation - traffic
+322. embouteillage - traffic jam
+323. bouchon - traffic jam
+324. accident - accident
+325. collision - collision
+326. panne - breakdown
+327. déviation - detour
+328. travaux - roadworks
+329. chantier - construction site
+330. route barrée - road closed
+331. limitation de vitesse - speed limit
+332. radar - speed camera
+333. contravention - ticket/fine
+334. amende - fine
+335. permis de conduire - driver's license
+336. code de la route - highway code
+337. priorité - priority/right of way
+338. céder - to yield
+339. s'arrêter - to stop
+340. ralentir - to slow down
+
+## Road Signs
+
+341. panneau - sign
+342. indication - indication
+343. signalisation - signage
+344. feu rouge - red light
+345. feu vert - green light
+346. feu orange - amber light
+347. stop - stop
+348. cédez le passage - yield
+349. sens interdit - no entry
+350. interdit - forbidden
+351. obligation - mandatory
+352. danger - danger
+353. avertissement - warning
+354. direction - direction
+355. sortie - exit
+356. entrée - entrance
+357. stationnement - parking
+358. stationnement interdit - no parking
+359. zone piétonne - pedestrian zone
+360. passage piéton - pedestrian crossing
+
+## Accommodation
+
+361. hôtel - hotel
+362. auberge - inn
+363. auberge de jeunesse - youth hostel
+364. chambre d'hôtes - bed and breakfast
+365. pension - guesthouse
+366. camping - campsite
+367. location - rental
+368. réservation - reservation
+369. chambre - room
+370. simple - single
+371. double - double
+372. lit - bed
+373. salle de bain - bathroom
+374. douche - shower
+375. toilettes - toilet
+376. clé - key
+377. carte - key card
+378. étage - floor
+379. ascenseur - elevator
+380. escalier - stairs
+
+## Hotel Services
+
+381. réception - reception
+382. réceptionniste - receptionist
+383. concierge - concierge
+384. bagagiste - porter
+385. femme de chambre - chambermaid
+386. service d'étage - room service
+387. petit-déjeuner - breakfast
+388. déjeuner - lunch
+389. dîner - dinner
+390. restaurant - restaurant
+391. bar - bar
+392. piscine - pool
+393. spa - spa
+394. gymnase - gym
+395. blanchisserie - laundry
+396. réveil - wake-up call
+397. wifi - wifi
+398. connexion internet - internet connection
+399. climatisation - air conditioning
+400. chauffage - heating
+
+## Travel Planning
+
+401. agence de voyages - travel agency
+402. agent de voyages - travel agent
+403. forfait - package
+404. tout compris - all-inclusive
+405. réserver - to book
+406. annuler - to cancel
+407. confirmer - to confirm
+408. modifier - to modify
+409. disponibilité - availability
+410. complet - full/booked
+411. liste d'attente - waiting list
+412. saison - season
+413. haute saison - high season
+414. basse saison - low season
+415. tarif - rate/fare
+416. prix - price
+417. promotion - special offer
+418. réduction - discount
+419. offre spéciale - special offer
+420. assurance voyage - travel insurance
+
+## Travel Documents
+
+421. passeport - passport
+422. visa - visa
+423. carte d'identité - ID card
+424. permis de conduire - driver's license
+425. permis international - international license
+426. assurance - insurance
+427. carte d'assurance - insurance card
+428. billet - ticket
+429. billet électronique - e-ticket
+430. réservation - reservation
+431. confirmation - confirmation
+432. itinéraire - itinerary
+433. voucher - voucher
+434. carte d'embarquement - boarding pass
+435. déclaration - declaration
+436. formulaire - form
+437. validité - validity
+438. expiration - expiration
+439. prolongation - extension
+440. renouvellement - renewal
+
+## Money and Payment
+
+441. argent - money
+442. espèces - cash
+443. monnaie - currency/change
+444. billet - bill/note
+445. pièce - coin
+446. euro - euro
+447. centime - cent
+448. devise - currency
+449. change - exchange
+450. taux de change - exchange rate
+451. bureau de change - currency exchange
+452. banque - bank
+453. distributeur - ATM
+454. carte bancaire - bank card
+455. carte de crédit - credit card
+456. code - PIN
+457. paiement - payment
+458. payer - to pay
+459. facture - bill/invoice
+460. reçu - receipt
+
+## Emergencies and Assistance
+
+461. urgence - emergency
+462. accident - accident
+463. blessure - injury
+464. malade - sick
+465. médecin - doctor
+466. hôpital - hospital
+467. pharmacie - pharmacy
+468. médicament - medication
+469. ordonnance - prescription
+470. ambulance - ambulance
+471. police - police
+472. pompiers - firefighters
+473. secours - help/rescue
+474. SOS - SOS
+475. aide - help
+476. assistance - assistance
+477. problème - problem
+478. danger - danger
+479. sécurité - safety/security
+480. protection - protection
+
+## Weather and Climate
+
+481. temps - weather
+482. météo - weather forecast
+483. climat - climate
+484. saison - season
+485. température - temperature
+486. chaud - hot
+487. froid - cold
+488. humide - humid
+489. sec - dry
+490. pluie - rain
+491. neige - snow
+492. vent - wind
+493. orage - storm
+494. brouillard - fog
+495. nuage - cloud
+496. soleil - sun
+497. gelée - frost
+498. verglas - black ice
+499. tempête - storm
+500. ouragan - hurricane

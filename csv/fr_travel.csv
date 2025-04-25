@@ -1,0 +1,502 @@
+french,english
+voyage,journey/trip
+voyager,to travel
+voyageur/voyageuse,traveler
+tourisme,tourism
+touriste,tourist
+visite,visit
+visiter,to visit
+séjour,stay
+vacances,vacation/holiday
+destination,destination
+itinéraire,itinerary
+explorer,to explore
+découvrir,to discover
+aventure,adventure
+guide,guide
+excursion,excursion
+randonnée,hike
+balade,stroll/walk
+hébergement,accommodation
+logement,lodging
+transport,transportation
+transporter,to transport
+véhicule,vehicle
+moyen de transport,means of transportation
+public,public
+privé,private
+aller,to go
+partir,to leave/depart
+arriver,to arrive
+retourner,to return
+rester,to stay
+attendre,to wait
+monter,to get on/board
+descendre,to get off/alight
+s'arrêter,to stop
+continuer,to continue
+traverser,to cross
+suivre,to follow
+accompagner,to accompany
+escorter,to escort
+voiture,car
+auto,car (informal)
+automobile,automobile
+conduire,to drive
+conducteur/conductrice,driver
+passager/passagère,passenger
+autoroute,highway/motorway
+route,road
+rue,street
+avenue,avenue
+boulevard,boulevard
+chemin,path/way
+carrefour,intersection
+rond-point,roundabout
+feu rouge,red light
+feu vert,green light
+feu,traffic light
+panneau,sign
+direction,direction
+sens unique,one-way
+## Car-Related Terms,
+moteur,engine
+roue,wheel
+pneu,tire
+volant,steering wheel
+siège,seat
+ceinture de sécurité,seatbelt
+frein,brake
+accélérateur,accelerator
+embrayage,clutch
+vitesse,gear/speed
+boîte de vitesses,gearbox
+rétroviseur,rearview mirror
+pare-brise,windshield
+essuie-glace,windshield wiper
+phare,headlight
+clignotant,turn signal
+coffre,trunk
+capot,hood
+portière,car door
+clé,key
+essence,gasoline
+diesel,diesel
+carburant,fuel
+station-service,gas station
+faire le plein,to fill up
+huile,oil
+pression,pressure
+réservoir,tank
+batterie,battery
+panne,breakdown
+crevaison,flat tire
+remorquer,to tow
+réparer,to repair
+garagiste,mechanic
+entretien,maintenance
+vidange,oil change
+lave-auto,car wash
+stationnement,parking
+se garer,to park
+parcmètre,parking meter
+transport en commun,public transportation
+réseau,network
+ligne,line
+correspondance,connection/transfer
+arrêt,stop
+station,station
+quai,platform
+terminal,terminal
+guichet,ticket window
+billetterie,ticket office
+horaire,schedule/timetable
+tarif,fare/rate
+ticket,ticket
+billet,ticket
+carte,card/pass
+abonnement,subscription/pass
+valider,to validate
+composteur,ticket validator
+contrôleur,ticket inspector
+amende,fine
+autobus,bus
+bus,bus
+autocar,coach
+minibus,minibus
+navette,shuttle
+tramway,tram
+trolleybus,trolleybus
+chauffeur,driver
+conducteur,driver
+passager,passenger
+place,seat
+debout,standing
+assis,seated
+couloir,aisle
+arrêt de bus,bus stop
+arrêt à la demande,request stop
+terminus,terminus
+prochain arrêt,next stop
+descendre,to get off
+monter,to get on
+train,train
+TGV (Train à Grande Vitesse),high-speed train
+RER,regional express network
+métro,subway/metro
+locomotive,locomotive
+wagon,carriage/car
+voiture,carriage/car
+compartiment,compartment
+place,seat
+siège,seat
+couloir,corridor
+fenêtre,window
+première classe,first class
+seconde classe,second class
+voiture-restaurant,dining car
+voiture-couchette,sleeping car
+contrôleur,ticket inspector
+chef de train,train manager
+gare,train station
+hall,concourse
+gare,station
+quai,platform
+voie,track
+hall,concourse
+panneau d'affichage,information board
+tableau des départs,departure board
+tableau des arrivées,arrival board
+consigne,luggage locker
+salle d'attente,waiting room
+guichet,ticket window
+billetterie automatique,ticket machine
+composteur,ticket validator
+information,information
+renseignement,information
+chef de gare,station master
+annonce,announcement
+retard,delay
+suppression,cancellation
+correspondance,connection
+changement,change
+avion,airplane
+vol,flight
+ligne aérienne,airline
+compagnie aérienne,airline company
+aéroport,airport
+terminal,terminal
+aérogare,terminal building
+piste,runway
+décollage,takeoff
+atterrissage,landing
+embarquement,boarding
+débarquement,disembarking
+pilote,pilot
+copilote,copilot
+équipage,crew
+steward/hôtesse de l'air,flight attendant
+turbulence,turbulence
+escale,stopover
+correspondance,connection
+direct,direct
+aéroport,airport
+terminal,terminal
+porte,gate
+hall,concourse
+enregistrement,check-in
+comptoir,counter
+carte d'embarquement,boarding pass
+bagage,luggage
+bagage à main,hand luggage
+bagage en soute,checked luggage
+tapis roulant,moving walkway
+chariot,cart/trolley
+poids,weight
+excédent de bagages,excess baggage
+réclamation des bagages,baggage claim
+douane,customs
+immigration,immigration
+passeport,passport
+contrôle,checkpoint
+sécurité,security
+bateau,boat
+navire,ship
+ferry,ferry
+traversier,ferry
+croisière,cruise
+voilier,sailboat
+yacht,yacht
+péniche,barge
+port,port/harbor
+quai,dock/pier
+embarquement,boarding
+débarquement,disembarking
+capitaine,captain
+marin,sailor
+équipage,crew
+passager,passenger
+cabine,cabin
+pont,deck
+cale,hold
+proue,bow
+ancre,anchor
+voile,sail
+gouvernail,rudder
+coque,hull
+bord,board
+tribord,starboard
+bâbord,port side
+poupe,stern
+proue,bow
+phare,lighthouse
+balise,beacon
+bouée,buoy
+marée,tide
+vague,wave
+vent,wind
+tempête,storm
+navigation,navigation
+naviguer,to navigate
+accoster,to dock
+amarrer,to moor
+vélo,bicycle
+bicyclette,bicycle
+VTT (Vélo Tout Terrain),mountain bike
+cycliste,cyclist
+guidon,handlebars
+pédale,pedal
+chaîne,chain
+frein,brake
+roue,wheel
+pneu,tire
+casque,helmet
+sonnette,bell
+pompe,pump
+antivol,lock
+moto,motorcycle
+motocyclette,motorcycle
+scooter,scooter
+motard,motorcyclist
+side-car,sidecar
+piste cyclable,bike path
+nord,north
+sud,south
+est,east
+ouest,west
+droite,right
+gauche,left
+tout droit,straight ahead
+tourner,to turn
+continuer,to continue
+traverser,to cross
+passer,to pass
+suivre,to follow
+direction,direction
+sens,direction/way
+sortie,exit
+entrée,entrance
+carte,map
+plan,map/plan
+GPS,GPS
+boussole,compass
+ici,here
+là,there
+là-bas,over there
+près,near
+loin,far
+proche,close
+éloigné,distant
+à côté de,next to
+en face de,across from
+devant,in front of
+derrière,behind
+entre,between
+au milieu,in the middle
+au bout,at the end
+au coin,at the corner
+carrefour,intersection
+distance,distance
+kilomètre,kilometer
+mètre,meter
+miles,miles
+circulation,traffic
+embouteillage,traffic jam
+bouchon,traffic jam
+accident,accident
+collision,collision
+panne,breakdown
+déviation,detour
+travaux,roadworks
+chantier,construction site
+route barrée,road closed
+limitation de vitesse,speed limit
+radar,speed camera
+contravention,ticket/fine
+amende,fine
+permis de conduire,driver's license
+code de la route,highway code
+priorité,priority/right of way
+céder,to yield
+s'arrêter,to stop
+ralentir,to slow down
+panneau,sign
+indication,indication
+signalisation,signage
+feu rouge,red light
+feu vert,green light
+feu orange,amber light
+stop,stop
+cédez le passage,yield
+sens interdit,no entry
+interdit,forbidden
+obligation,mandatory
+danger,danger
+avertissement,warning
+direction,direction
+sortie,exit
+entrée,entrance
+stationnement,parking
+stationnement interdit,no parking
+zone piétonne,pedestrian zone
+passage piéton,pedestrian crossing
+hôtel,hotel
+auberge,inn
+auberge de jeunesse,youth hostel
+chambre d'hôtes,bed and breakfast
+pension,guesthouse
+camping,campsite
+location,rental
+réservation,reservation
+chambre,room
+simple,single
+double,double
+lit,bed
+salle de bain,bathroom
+douche,shower
+toilettes,toilet
+clé,key
+carte,key card
+étage,floor
+ascenseur,elevator
+escalier,stairs
+réception,reception
+réceptionniste,receptionist
+concierge,concierge
+bagagiste,porter
+femme de chambre,chambermaid
+service d'étage,room service
+petit-déjeuner,breakfast
+déjeuner,lunch
+dîner,dinner
+restaurant,restaurant
+bar,bar
+piscine,pool
+spa,spa
+gymnase,gym
+blanchisserie,laundry
+réveil,wake-up call
+wifi,wifi
+connexion internet,internet connection
+climatisation,air conditioning
+chauffage,heating
+agence de voyages,travel agency
+agent de voyages,travel agent
+forfait,package
+tout compris,all-inclusive
+réserver,to book
+annuler,to cancel
+confirmer,to confirm
+modifier,to modify
+disponibilité,availability
+complet,full/booked
+liste d'attente,waiting list
+saison,season
+haute saison,high season
+basse saison,low season
+tarif,rate/fare
+prix,price
+promotion,special offer
+réduction,discount
+offre spéciale,special offer
+assurance voyage,travel insurance
+passeport,passport
+visa,visa
+carte d'identité,ID card
+permis de conduire,driver's license
+permis international,international license
+assurance,insurance
+carte d'assurance,insurance card
+billet,ticket
+billet électronique,e-ticket
+réservation,reservation
+confirmation,confirmation
+itinéraire,itinerary
+voucher,voucher
+carte d'embarquement,boarding pass
+déclaration,declaration
+formulaire,form
+validité,validity
+expiration,expiration
+prolongation,extension
+renouvellement,renewal
+argent,money
+espèces,cash
+monnaie,currency/change
+billet,bill/note
+pièce,coin
+euro,euro
+centime,cent
+devise,currency
+change,exchange
+taux de change,exchange rate
+bureau de change,currency exchange
+banque,bank
+distributeur,ATM
+carte bancaire,bank card
+carte de crédit,credit card
+code,PIN
+paiement,payment
+payer,to pay
+facture,bill/invoice
+reçu,receipt
+urgence,emergency
+accident,accident
+blessure,injury
+malade,sick
+médecin,doctor
+hôpital,hospital
+pharmacie,pharmacy
+médicament,medication
+ordonnance,prescription
+ambulance,ambulance
+police,police
+pompiers,firefighters
+secours,help/rescue
+SOS,SOS
+aide,help
+assistance,assistance
+problème,problem
+danger,danger
+sécurité,safety/security
+protection,protection
+temps,weather
+météo,weather forecast
+climat,climate
+saison,season
+température,temperature
+chaud,hot
+froid,cold
+humide,humid
+sec,dry
+pluie,rain
+neige,snow
+vent,wind
+orage,storm
+brouillard,fog
+nuage,cloud
+soleil,sun
+gelée,frost
+verglas,black ice
+tempête,storm
+ouragan,hurricane

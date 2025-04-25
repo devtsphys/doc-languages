@@ -1,0 +1,576 @@
+# Top Spanish Travel & Transportation Vocabulary with English Translations
+
+## Basic Travel Terms
+
+1. viajar - to travel
+2. viaje - trip/journey
+3. turista - tourist
+4. pasaporte - passport
+5. visa - visa
+6. maleta - suitcase
+7. equipaje - luggage
+8. mochila - backpack
+9. boleto/billete - ticket
+10. reservación/reserva - reservation
+11. hotel - hotel
+12. habitación - room
+13. recepción - reception
+14. alojamiento - accommodation
+15. hostal - hostel
+16. camping - campsite
+17. turismo - tourism
+18. vacaciones - vacation/holiday
+19. destino - destination
+20. itinerario - itinerary
+
+## Transportation General
+
+21. transporte - transportation
+22. público - public
+23. privado - private
+24. vehículo - vehicle
+25. conducir - to drive
+26. manejar - to drive (Latin America)
+27. conductor - driver
+28. pasajero - passenger
+29. tráfico - traffic
+30. embotellamiento - traffic jam
+31. carretera - highway/road
+32. ruta - route
+33. dirección - direction/address
+34. mapa - map
+35. navegador/GPS - navigator/GPS
+36. aplicación - app
+37. compartir - to share
+38. alquilar - to rent
+39. reservar - to reserve/book
+40. pagar - to pay
+
+## Road Transportation
+
+41. coche/carro/auto - car
+42. autobús/bus - bus
+43. taxi - taxi
+44. parada - stop
+45. estación - station
+46. terminal - terminal
+47. autopista - highway/freeway
+48. peaje - toll
+49. gasolina/gasolinera - gasoline/gas station
+50. diesel - diesel
+51. aparcar - to park (Spain)
+52. estacionamiento - parking lot
+53. parquear - to park (Latin America)
+54. alquiler de coches - car rental
+55. licencia de conducir - driver's license
+56. camión - truck
+57. motocicleta/moto - motorcycle
+58. bicicleta/bici - bicycle
+59. ciclista - cyclist
+60. furgoneta/van - van
+
+## Air Travel
+
+61. aeropuerto - airport
+62. avión - airplane
+63. vuelo - flight
+64. línea aérea - airline
+65. azafata/o - flight attendant
+66. piloto - pilot
+67. despegar - to take off
+68. aterrizar - to land
+69. escala - layover
+70. directo - direct
+71. tarjeta de embarque - boarding pass
+72. puerta - gate
+73. terminal - terminal
+74. facturación - check-in
+75. equipaje de mano - carry-on luggage
+76. aduana - customs
+77. seguridad - security
+78. control de pasaportes - passport control
+79. retraso - delay
+80. cancelación - cancellation
+
+## Rail Transportation
+
+81. tren - train
+82. estación de tren - train station
+83. vía - track
+84. andén - platform
+85. vagón - carriage/car
+86. asiento - seat
+87. primera clase - first class
+88. segunda clase - second class
+89. horario - timetable/schedule
+90. metro - subway/underground
+91. subterráneo - underground (Latin America)
+92. tranvía - tram/streetcar
+93. ferrocarril - railway
+94. salida - departure
+95. llegada - arrival
+96. billetería - ticket office
+97. máquina expendedora - vending machine
+98. validar - to validate
+99. transbordo - transfer
+100. maquinista - train driver
+
+## Water Transportation
+
+101. barco - boat/ship
+102. ferry - ferry
+103. crucero - cruise
+104. puerto - port
+105. muelle - dock/pier
+106. paseo en barco - boat trip
+107. navegar - to sail/navigate
+108. capitán - captain
+109. marinero - sailor
+110. chaleco salvavidas - life jacket
+111. bote - small boat
+112. yate - yacht
+113. lancha - motorboat
+114. camarote - cabin
+115. cubierta - deck
+116. pasaje - passage
+117. embarcar - to board
+118. desembarcar - to disembark
+119. marea - tide
+120. puerto deportivo - marina
+
+## Directions and Navigation
+
+121. mapa - map
+122. norte - north
+123. sur - south
+124. este - east
+125. oeste - west
+126. derecha - right
+127. izquierda - left
+128. recto - straight
+129. girar - to turn
+130. cruzar - to cross
+131. seguir - to follow
+132. cerca - near
+133. lejos - far
+134. aquí - here
+135. allí - there
+136. entre - between
+137. frente a - across from/in front of
+138. esquina - corner
+139. cuadra - block (Latin America)
+140. manzana - block (Spain)
+
+## Road Signs and Traffic
+
+141. señal - sign
+142. semáforo - traffic light
+143. paso de peatones - pedestrian crossing
+144. pare/alto - stop
+145. ceda el paso - yield
+146. prohibido - forbidden
+147. sentido único - one way
+148. doble sentido - two way
+149. velocidad máxima - maximum speed
+150. zona escolar - school zone
+151. zona de construcción - construction zone
+152. desvío - detour
+153. rotonda/glorieta - roundabout
+154. intersección - intersection
+155. cruce - crossing
+156. multa - fine/ticket
+157. policía de tránsito - traffic police
+158. accidente - accident
+159. emergencia - emergency
+160. detenerse - to stop
+
+## Car Parts and Maintenance
+
+161. rueda - wheel
+162. neumático/llanta - tire
+163. volante - steering wheel
+164. freno - brake
+165. acelerador - accelerator
+166. embrague - clutch
+167. cambio/transmisión - gearbox/transmission
+168. motor - engine
+169. batería - battery
+170. parabrisas - windshield
+171. limpiaparabrisas - windshield wiper
+172. espejo - mirror
+173. luces - lights
+174. intermitente - turn signal
+175. cinturón de seguridad - seatbelt
+176. airbag - airbag
+177. aire acondicionado - air conditioning
+178. calefacción - heating
+179. maletero/cajuela - trunk
+180. capó/cofre - hood
+
+## Accommodations
+
+181. hotel - hotel
+182. hostal - hostel
+183. apartamento - apartment
+184. albergue - shelter/hostel
+185. pensión - guesthouse
+186. habitación - room
+187. cama - bed
+188. baño - bathroom
+189. ducha - shower
+190. llave - key
+191. tarjeta - card
+192. recepción - reception
+193. servicio de habitación - room service
+194. desayuno - breakfast
+195. incluido - included
+196. wifi - wifi
+197. aire acondicionado - air conditioning
+198. reserva - reservation
+199. cancelación - cancellation
+200. disponible - available
+
+## Travel Planning
+
+201. itinerario - itinerary
+202. agendar - to schedule
+203. guía turística - tourist guide/guidebook
+204. visita guiada - guided tour
+205. excursión - excursion/trip
+206. precio - price
+207. tarifa - rate/fare
+208. descuento - discount
+209. alto/alta temporada - high season
+210. baja temporada - low season
+211. información turística - tourist information
+212. centro de visitantes - visitor center
+213. folleto - brochure
+214. horario - schedule/timetable
+215. abierto - open
+216. cerrado - closed
+217. reservar - to book/reserve
+218. cancelar - to cancel
+219. modificar - to modify
+220. confirmar - to confirm
+
+## Travel Documents
+
+221. pasaporte - passport
+222. visa - visa
+223. documento de identidad - ID card
+224. licencia de conducir - driver's license
+225. seguro de viaje - travel insurance
+226. tarjeta de crédito - credit card
+227. efectivo - cash
+228. divisas - currency
+229. cambio de moneda - currency exchange
+230. cheques de viajero - traveler's checks
+231. formulario - form
+232. declaración - declaration
+233. aduana - customs
+234. inmigración - immigration
+235. fronteras - borders
+236. validez - validity
+237. caducidad - expiration
+238. sello - stamp
+239. permiso - permit
+240. extranjero - foreigner
+
+## Public Transportation
+
+241. transporte público - public transportation
+242. billete sencillo - one-way ticket
+243. billete de ida y vuelta - round-trip ticket
+244. abono/tarjeta - pass/card
+245. validar - to validate
+246. máquina expendedora - ticket machine
+247. recarga - reload/top-up
+248. tarifa - fare
+249. descuento - discount
+250. gratuito - free
+251. estudiante - student
+252. jubilado - retired/senior
+253. discapacitado - disabled
+254. conexión - connection
+255. transbordo - transfer
+256. directo - direct
+257. ruta - route
+258. línea - line
+259. frecuencia - frequency
+260. horario - schedule
+
+## Emergency and Safety
+
+261. emergencia - emergency
+262. policía - police
+263. ambulancia - ambulance
+264. bomberos - fire department
+265. hospital - hospital
+266. médico - doctor
+267. farmacia - pharmacy
+268. ayuda - help
+269. peligro - danger
+270. seguro - safe/insurance
+271. robo - theft
+272. perdido - lost
+273. encontrado - found
+274. objetos perdidos - lost and found
+275. denuncia - report (to police)
+276. accidente - accident
+277. herido - injured
+278. primeros auxilios - first aid
+279. evacuación - evacuation
+280. salida de emergencia - emergency exit
+
+## Attractions and Sightseeing
+
+281. atracción - attraction
+282. monumento - monument
+283. museo - museum
+284. galería - gallery
+285. teatro - theater
+286. cine - cinema
+287. parque - park
+288. jardín - garden
+289. plaza - square
+290. catedral - cathedral
+291. iglesia - church
+292. palacio - palace
+293. castillo - castle
+294. estatua - statue
+295. fuente - fountain
+296. mirador - viewpoint
+297. tour - tour
+298. entrada - entrance/ticket
+299. salida - exit
+300. guía - guide
+
+## Weather and Geography
+
+301. clima - climate
+302. tiempo - weather
+303. temperatura - temperature
+304. lluvia - rain
+305. nieve - snow
+306. sol - sun
+307. nube - cloud
+308. viento - wind
+309. tormenta - storm
+310. calor - heat
+311. frío - cold
+312. húmedo - humid
+313. seco - dry
+314. pronóstico - forecast
+315. montaña - mountain
+316. playa - beach
+317. mar - sea
+318. río - river
+319. lago - lake
+320. bosque - forest
+
+## Types of Trips
+
+321. viaje de negocios - business trip
+322. vacaciones - vacation/holiday
+323. luna de miel - honeymoon
+324. viaje escolar - school trip
+325. intercambio - exchange
+326. año sabático - gap year
+327. mochilero - backpacker
+328. aventura - adventure
+329. ecoturismo - ecotourism
+330. turismo rural - rural tourism
+331. turismo cultural - cultural tourism
+332. peregrinación - pilgrimage
+333. crucero - cruise
+334. escapada - getaway
+335. viaje organizado - package tour
+336. viaje independiente - independent travel
+337. turismo de sol y playa - beach tourism
+338. turismo de montaña - mountain tourism
+339. turismo gastronómico - food tourism
+340. turismo de compras - shopping tourism
+
+## Airport and Flight Terminology
+
+341. aerolínea - airline
+342. mostrador de facturación - check-in counter
+343. equipaje facturado - checked luggage
+344. equipaje de mano - carry-on luggage
+345. peso permitido - weight allowance
+346. exceso de equipaje - excess baggage
+347. cinta transportadora - conveyor belt
+348. carrusel de equipaje - baggage carousel
+349. etiqueta de equipaje - luggage tag
+350. asiento de ventanilla - window seat
+351. asiento de pasillo - aisle seat
+352. asiento central - middle seat
+353. salida de emergencia - emergency exit
+354. tarjeta de embarque - boarding pass
+355. puerta de embarque - boarding gate
+356. sala de espera - waiting area
+357. sala VIP - VIP lounge
+358. retraso - delay
+359. cancelación - cancellation
+360. reprogramación - rescheduling
+
+## Urban Transportation
+
+361. taxi - taxi
+362. parada de taxi - taxi stand
+363. taxímetro - taximeter
+364. propina - tip
+365. compartir - to share
+366. uber - uber
+367. aplicación - app
+368. bicicleta pública - public bicycle
+369. estación de bicicletas - bike station
+370. carril bici - bike lane
+371. patinete eléctrico - electric scooter
+372. peatón - pedestrian
+373. zona peatonal - pedestrian zone
+374. acera/banqueta - sidewalk
+375. callejón - alley
+376. avenida - avenue
+377. bulevar - boulevard
+378. calle - street
+379. túnel - tunnel
+380. puente - bridge
+
+## Fuel and Service Stations
+
+381. gasolinera - gas station
+382. estación de servicio - service station
+383. gasolina - gasoline
+384. diesel - diesel
+385. combustible - fuel
+386. repostar/cargar - to refuel
+387. surtidor - fuel pump
+388. manguera - hose
+389. tapa del tanque - fuel cap
+390. aceite - oil
+391. presión de neumáticos - tire pressure
+392. aire - air
+393. agua - water
+394. limpiaparabrisas - windshield wiper fluid
+395. anticongelante - antifreeze
+396. mecánico - mechanic
+397. taller - workshop/garage
+398. servicio - service
+399. reparación - repair
+400. lavado de coches - car wash
+
+## Travel Activities
+
+401. caminar - to walk
+402. pasear - to stroll
+403. correr - to run
+404. nadar - to swim
+405. bucear - to dive
+406. esquiar - to ski
+407. hacer senderismo - to hike
+408. acampar - to camp
+409. pescar - to fish
+410. cazar - to hunt
+411. remar - to row
+412. navegar - to sail
+413. escalar - to climb
+414. montar a caballo - to ride horseback
+415. hacer ciclismo - to cycle
+416. hacer surf - to surf
+417. hacer parapente - to paraglide
+418. hacer puenting - to bungee jump
+419. hacer canoping - to zipline
+420. hacer rafting - to go rafting
+
+## Borders and Immigration
+
+421. frontera - border
+422. control fronterizo - border control
+423. aduana - customs
+424. declaración de aduana - customs declaration
+425. inmigración - immigration
+426. oficial de inmigración - immigration officer
+427. permiso de residencia - residence permit
+428. extranjero - foreigner
+429. ciudadano - citizen
+430. nacionalidad - nationality
+431. origen - origin
+432. destino - destination
+433. motivo del viaje - purpose of travel
+434. duración de la estancia - length of stay
+435. prohibido - prohibited
+436. permitido - allowed
+437. restricción - restriction
+438. inspección - inspection
+439. retención - detention
+440. deportación - deportation
+
+## Travel Technology
+
+441. teléfono móvil/celular - mobile phone
+442. cargador - charger
+443. adaptador - adapter
+444. enchufe - plug
+445. voltaje - voltage
+446. internet - internet
+447. wifi - wifi
+448. roaming - roaming
+449. datos móviles - mobile data
+450. red - network
+451. señal - signal
+452. batería - battery
+453. aplicación de viaje - travel app
+454. navegador - browser/navigator
+455. mapa digital - digital map
+456. traductor - translator
+457. cámara - camera
+458. foto - photo
+459. video - video
+460. memoria - memory
+
+## Money and Payment
+
+461. dinero - money
+462. moneda - currency/coin
+463. billete - bill/note
+464. cambio - change/exchange
+465. tipo de cambio - exchange rate
+466. comisión - commission/fee
+467. banco - bank
+468. cajero automático - ATM
+469. tarjeta de crédito - credit card
+470. tarjeta de débito - debit card
+471. efectivo - cash
+472. cheque - check
+473. recibo - receipt
+474. factura - invoice/bill
+475. total - total
+476. precio - price
+477. costo - cost
+478. descuento - discount
+479. propina - tip
+480. gratis - free
+
+## Miscellaneous Transportation Terms
+
+481. horario - schedule/timetable
+482. frecuencia - frequency
+483. velocidad - speed
+484. distancia - distance
+485. duración - duration
+486. conexión - connection
+487. transferencia - transfer
+488. trámite - procedure/paperwork
+489. sistema - system
+490. red - network
+491. servicio - service
+492. puntualidad - punctuality
+493. comodidad - comfort
+494. seguridad - safety/security
+495. accesibilidad - accessibility
+496. información - information
+497. cobertura - coverage
+498. punto de encuentro - meeting point
+499. llegada - arrival
+500. salida - departure

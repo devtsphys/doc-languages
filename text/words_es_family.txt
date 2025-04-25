@@ -1,0 +1,545 @@
+# Top Spanish Words for Family and Relationships (with English translations)
+
+## Immediate Family
+1. familia - family
+2. padre - father
+3. madre - mother
+4. papá - dad
+5. mamá - mom
+6. padres - parents
+7. hijo - son
+8. hija - daughter
+9. hijos - children
+10. hermano - brother
+11. hermana - sister
+12. hermanos - siblings
+13. abuelo - grandfather
+14. abuela - grandmother
+15. abuelos - grandparents
+16. nieto - grandson
+17. nieta - granddaughter
+18. nietos - grandchildren
+19. bebé - baby
+20. gemelos - twins
+
+## Extended Family
+21. tío - uncle
+22. tía - aunt
+23. tíos - uncles/aunt and uncle
+24. primo - male cousin
+25. prima - female cousin
+26. primos - cousins
+27. sobrino - nephew
+28. sobrina - niece
+29. sobrinos - nephews/nieces
+30. cuñado - brother-in-law
+31. cuñada - sister-in-law
+32. suegro - father-in-law
+33. suegra - mother-in-law
+34. suegros - parents-in-law
+35. yerno - son-in-law
+36. nuera - daughter-in-law
+37. bisabuelo - great-grandfather
+38. bisabuela - great-grandmother
+39. bisnieto - great-grandson
+40. bisnieta - great-granddaughter
+41. tataranieto - great-great-grandson
+42. tataranieta - great-great-granddaughter
+43. antepasados - ancestors
+44. descendientes - descendants
+45. pariente - relative
+46. familiar - family member
+47. madrastra - stepmother
+48. padrastro - stepfather
+49. hermanastro - stepbrother
+50. hermanastra - stepsister
+
+## Marriage & Partnerships
+51. esposo - husband
+52. esposa - wife
+53. esposos - spouses
+54. marido - husband
+55. mujer - wife (also: woman)
+56. matrimonio - marriage
+57. boda - wedding
+58. pareja - couple/partner
+59. novio - boyfriend/fiancé
+60. novia - girlfriend/fiancée
+61. prometido - fiancé
+62. prometida - fiancée
+63. compromiso - engagement
+64. anillo - ring
+65. casado - married (masculine)
+66. casada - married (feminine)
+67. soltero - single (masculine)
+68. soltera - single (feminine)
+69. divorciado - divorced (masculine)
+70. divorciada - divorced (feminine)
+71. viudo - widower
+72. viuda - widow
+73. separado - separated (masculine)
+74. separada - separated (feminine)
+75. amante - lover
+76. compañero - partner/companion (masculine)
+77. compañera - partner/companion (feminine)
+78. relación - relationship
+79. unión - union
+80. divorcio - divorce
+
+## Love & Emotions
+81. amor - love
+82. cariño - affection/endearment
+83. pasión - passion
+84. deseo - desire
+85. atracción - attraction
+86. enamorado - in love (masculine)
+87. enamorada - in love (feminine)
+88. romance - romance
+89. romántico - romantic
+90. corazón - heart
+91. sentimiento - feeling
+92. emoción - emotion
+93. afecto - affection
+94. ternura - tenderness
+95. intimidad - intimacy
+96. admiración - admiration
+97. respeto - respect
+98. confianza - trust
+99. honestidad - honesty
+100. fidelidad - fidelity
+101. infidelidad - infidelity
+102. celos - jealousy
+103. pelea - fight/argument
+104. reconciliación - reconciliation
+105. perdón - forgiveness
+
+## Terms of Endearment
+106. mi amor - my love
+107. cariño - darling
+108. querido - dear (masculine)
+109. querida - dear (feminine)
+110. corazón - sweetheart (lit: heart)
+111. tesoro - treasure
+112. cielo - heaven/sweetie
+113. vida - life (as in "my life")
+114. precioso - precious (masculine)
+115. preciosa - precious (feminine)
+116. bebé - baby
+117. hermoso - beautiful (masculine)
+118. hermosa - beautiful (feminine)
+119. dulce - sweet
+120. lindo - cute/pretty (masculine)
+121. linda - cute/pretty (feminine)
+122. guapo - handsome
+123. bonita - pretty
+124. príncipe - prince
+125. princesa - princess
+
+## Family Events & Celebrations
+126. cumpleaños - birthday
+127. aniversario - anniversary
+128. bautizo - baptism
+129. comunión - communion
+130. confirmación - confirmation
+131. graduación - graduation
+132. funeral - funeral
+133. reunión familiar - family gathering
+134. fiesta - party
+135. celebración - celebration
+136. tradición - tradition
+137. herencia - heritage/inheritance
+138. regalo - gift
+139. sorpresa - surprise
+140. felicitación - congratulation
+141. invitación - invitation
+142. recuerdo - memory/souvenir
+143. fotografía - photograph
+144. álbum - album
+145. video - video
+
+## Family Roles & Dynamics
+146. cabeza de familia - head of family
+147. ama de casa - housewife
+148. proveedor - provider
+149. sustento - support/livelihood
+150. responsabilidad - responsibility
+151. obligación - obligation
+152. sacrificio - sacrifice
+153. protección - protection
+154. educación - education/upbringing
+155. crianza - upbringing
+156. disciplina - discipline
+157. reglas - rules
+158. valores - values
+159. costumbres - customs
+160. generación - generation
+161. legado - legacy
+162. apellido - surname/family name
+163. linaje - lineage
+164. rama - branch (of family)
+165. árbol genealógico - family tree
+
+## Communication & Interaction
+166. conversación - conversation
+167. charla - chat
+168. diálogo - dialogue
+169. discusión - discussion/argument
+170. consejo - advice
+171. apoyo - support
+172. ayuda - help
+173. comprensión - understanding
+174. malentendido - misunderstanding
+175. confusión - confusion
+176. acuerdo - agreement
+177. desacuerdo - disagreement
+178. secreto - secret
+179. confidencia - confidence/secret
+180. mensaje - message
+181. llamada - call
+182. visita - visit
+183. reunión - meeting/gathering
+184. contacto - contact
+185. comunicación - communication
+
+## Pregnancy & Childhood
+186. embarazo - pregnancy
+187. embarazada - pregnant
+188. parto - childbirth
+189. nacimiento - birth
+190. recién nacido - newborn
+191. lactancia - breastfeeding
+192. pañal - diaper
+193. cuna - crib
+194. biberón - baby bottle
+195. chupete - pacifier
+196. juguete - toy
+197. guardería - daycare
+198. niñera - babysitter
+199. infancia - childhood
+200. adolescencia - adolescence
+201. juventud - youth
+202. madurez - maturity
+203. vejez - old age
+204. crecimiento - growth
+205. desarrollo - development
+
+## Home & Living Together
+206. hogar - home
+207. casa - house
+208. vivienda - dwelling
+209. techo - roof (also metaphorical)
+210. habitación - room
+211. cama - bed
+212. cocina - kitchen
+213. comedor - dining room
+214. sala - living room
+215. baño - bathroom
+216. jardín - garden
+217. patio - patio/yard
+218. garaje - garage
+219. vecino - neighbor (masculine)
+220. vecina - neighbor (feminine)
+221. vecindario - neighborhood
+222. comunidad - community
+223. convivencia - coexistence/living together
+224. compartir - to share
+225. colaboración - collaboration
+
+## Conflict & Resolution
+226. problema - problem
+227. conflicto - conflict
+228. crisis - crisis
+229. tensión - tension
+230. estrés - stress
+231. preocupación - worry
+232. angustia - anguish
+233. frustración - frustration
+234. enojo - anger
+235. ira - wrath/anger
+236. rabia - rage
+237. discusión - argument
+238. pelea - fight
+239. desacuerdo - disagreement
+240. malentendido - misunderstanding
+241. reconciliación - reconciliation
+242. perdón - forgiveness
+243. disculpa - apology
+244. solución - solution
+245. compromiso - compromise
+246. mediación - mediation
+247. consejería - counseling
+248. terapia - therapy
+249. paciencia - patience
+250. tolerancia - tolerance
+
+## Care & Support
+251. cuidado - care
+252. atención - attention
+253. apoyo - support
+254. ayuda - help
+255. asistencia - assistance
+256. protección - protection
+257. amparo - shelter/protection
+258. seguridad - security
+259. bienestar - well-being
+260. salud - health
+261. enfermedad - illness
+262. medicina - medicine
+263. tratamiento - treatment
+264. hospital - hospital
+265. clínica - clinic
+266. médico - doctor
+267. enfermera - nurse
+268. cuidador - caregiver (masculine)
+269. cuidadora - caregiver (feminine)
+270. vejez - old age
+271. jubilación - retirement
+272. pensión - pension
+273. ahorros - savings
+274. herencia - inheritance
+275. testamento - will/testament
+
+## Life Transitions
+276. nacimiento - birth
+277. crecimiento - growth
+278. madurez - maturity
+279. envejecimiento - aging
+280. muerte - death
+281. luto - mourning
+282. duelo - grief
+283. memoria - memory
+284. recuerdo - memory/memento
+285. legado - legacy
+286. cambio - change
+287. transición - transition
+288. adaptación - adaptation
+289. mudanza - move (changing residence)
+290. traslado - transfer/relocation
+291. migración - migration
+292. separación - separation
+293. reunión - reunion
+294. regreso - return
+295. bienvenida - welcome
+
+## Family Activities
+296. comida - meal
+297. cena - dinner
+298. almuerzo - lunch
+299. desayuno - breakfast
+300. merienda - snack
+301. conversación - conversation
+302. charla - chat
+303. discusión - discussion
+304. reunión - meeting/gathering
+305. fiesta - party
+306. celebración - celebration
+307. vacaciones - vacation
+308. viaje - trip
+309. excursión - excursion
+310. paseo - walk/outing
+311. visita - visit
+312. juego - game
+313. deporte - sport
+314. ejercicio - exercise
+315. actividad - activity
+316. tiempo libre - free time
+317. ocio - leisure
+318. entretenimiento - entertainment
+319. televisión - television
+320. película - movie
+
+## Economic Aspects
+321. dinero - money
+322. finanzas - finances
+323. economía - economy
+324. presupuesto - budget
+325. ingreso - income
+326. salario - salary
+327. gasto - expense
+328. ahorro - saving
+329. inversión - investment
+330. deuda - debt
+331. préstamo - loan
+332. hipoteca - mortgage
+333. alquiler - rent
+334. cuenta - account
+335. tarjeta - card
+336. banco - bank
+337. seguro - insurance
+338. impuesto - tax
+339. factura - bill
+340. compra - purchase
+
+## Education & Development
+341. educación - education
+342. escuela - school
+343. colegio - school
+344. universidad - university
+345. instituto - high school/institute
+346. clase - class
+347. curso - course
+348. estudio - study
+349. tarea - homework
+350. examen - exam
+351. nota - grade
+352. diploma - diploma
+353. título - degree/title
+354. graduación - graduation
+355. carrera - career/degree
+356. profesión - profession
+357. trabajo - work/job
+358. empleo - employment
+359. compañero de clase - classmate
+360. profesor - teacher
+
+## Descriptive Family Terms
+361. nuclear - nuclear (family)
+362. extendida - extended (family)
+363. numerosa - large (family)
+364. pequeña - small (family)
+365. tradicional - traditional
+366. moderna - modern
+367. adoptiva - adoptive
+368. biológica - biological
+369. política - in-law
+370. cercana - close
+371. lejana - distant
+372. unida - united/close-knit
+373. problemática - problematic
+374. disfuncional - dysfunctional
+375. funcional - functional
+376. feliz - happy
+377. triste - sad
+378. enojada - angry
+379. tranquila - peaceful
+380. ruidosa - noisy
+
+## Legal & Social Terms
+381. adopción - adoption
+382. custodia - custody
+383. tutela - guardianship
+384. patria potestad - parental authority
+385. manutención - child support/maintenance
+386. pensión alimenticia - alimony
+387. régimen de visitas - visitation rights
+388. patrimonio - patrimony/assets
+389. herencia - inheritance
+390. testamento - will/testament
+391. acta de nacimiento - birth certificate
+392. documento - document
+393. certificado - certificate
+394. identificación - identification
+395. registro civil - civil registry
+396. juez - judge
+397. tribunal - court
+398. abogado - lawyer
+399. mediador - mediator
+400. asesor - advisor
+
+## Family Bonds & Qualities
+401. vínculo - bond
+402. lazo - tie
+403. unión - union
+404. cercanía - closeness
+405. distancia - distance
+406. lealtad - loyalty
+407. respeto - respect
+408. confianza - trust
+409. honestidad - honesty
+410. sinceridad - sincerity
+411. comprensión - understanding
+412. tolerancia - tolerance
+413. paciencia - patience
+414. responsabilidad - responsibility
+415. compromiso - commitment
+416. dedicación - dedication
+417. sacrificio - sacrifice
+418. generosidad - generosity
+419. compasión - compassion
+420. empatía - empathy
+
+## Special Family Situations
+421. adopción - adoption
+422. acogida - fostering
+423. orfandad - orphanhood
+424. huérfano - orphan (masculine)
+425. huérfana - orphan (feminine)
+426. tutela - guardianship
+427. tutor - guardian (masculine)
+428. tutora - guardian (feminine)
+429. dependiente - dependent
+430. carga familiar - family burden
+431. hijo único - only child (masculine)
+432. hija única - only child (feminine)
+433. familia monoparental - single-parent family
+434. madre soltera - single mother
+435. padre soltero - single father
+436. familia ensamblada - blended family
+437. familia adoptiva - adoptive family
+438. familia de acogida - foster family
+439. familia numerosa - large family
+440. familia pequeña - small family
+
+## Cultural & Religious Terms
+441. tradición - tradition
+442. costumbre - custom
+443. cultura - culture
+444. religión - religion
+445. fe - faith
+446. creencia - belief
+447. valor - value
+448. moral - moral
+449. ética - ethics
+450. ceremonia - ceremony
+451. ritual - ritual
+452. sacramento - sacrament
+453. bendición - blessing
+454. oración - prayer
+455. iglesia - church
+456. templo - temple
+457. mezquita - mosque
+458. sinagoga - synagogue
+459. comunidad - community
+460. congregación - congregation
+
+## Verbs Related to Family & Relationships
+461. amar - to love
+462. querer - to love/want
+463. cuidar - to care for
+464. proteger - to protect
+465. apoyar - to support
+466. ayudar - to help
+467. criar - to raise
+468. educar - to educate
+469. enseñar - to teach
+470. aprender - to learn
+471. crecer - to grow
+472. madurar - to mature
+473. envejecer - to age
+474. nacer - to be born
+475. morir - to die
+476. vivir - to live
+477. compartir - to share
+478. comunicar - to communicate
+479. entender - to understand
+480. escuchar - to listen
+481. hablar - to talk
+482. discutir - to discuss/argue
+483. pelear - to fight
+484. reconciliar - to reconcile
+485. perdonar - to forgive
+486. disculpar - to apologize/excuse
+487. agradecer - to thank
+488. celebrar - to celebrate
+489. reunir - to gather/meet
+490. separar - to separate
+491. divorciar - to divorce
+492. casar - to marry
+493. comprometer - to engage
+494. conocer - to meet/know
+495. presentar - to introduce
+496. visitar - to visit
+497. llamar - to call
+498. escribir - to write
+499. recordar - to remember
+500. olvidar - to forget
